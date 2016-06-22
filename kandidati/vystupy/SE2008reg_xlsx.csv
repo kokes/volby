@@ -1,0 +1,204 @@
+,OBVOD,CKAND,VSTRANA,JMENO,PRIJMENI,TITULPRED,TITULZA,VEK,POVOLANI,BYDLISTEN,BYDLISTEK,PSTRANA,NSTRANA,PLATNOST,HLASY_K1,PROC_K1,URIZ_PR_K1,ZVOLEN_K1,LOS_K1,HLASY_K2,PROC_K2,URIZ_PR_K2,ZVOLEN_K2,LOS_K2,POHLAVI,NAZEV_VS
+0,3,1,5,Petr,Němec,Ing.,,53,podnikatel,Cheb,554481,5,5,0,1170,3.71,3.7180627939494,0,0,0,0.0,0.0,0,0,,Strana zelených
+1,3,2,47,František,Podlipský,JUDr.,,58,právník,Bor,560758,47,47,0,6316,20.07,20.07118342443116,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+2,3,3,7,Miroslav,Nenutil,Mgr.,,50,starosta,Stříbro,561215,7,7,0,8373,26.6,26.60798271259692,2,0,15879,67.36,67.36096381453358,1,0,,Česká strana sociálně demokratická
+3,3,4,155,Jaromír,Dušek,,,56,železničář,Dolní Dobrouč,580121,99,155,0,1766,5.61,5.61205033685013,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+4,3,5,80,Ivo,Mlátilík,,,47,starosta,Františkovy Lázně,554529,99,80,0,6933,22.03,22.03190542773611,2,0,7694,32.63,32.63903618546642,0,0,,Nezávislí kandidáti
+5,3,6,53,Jan,Svoboda,MUDr.,,51,starosta,Cheb,554481,53,53,0,5838,18.55,18.5521799923732,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+6,3,7,172,Oldřich,Dvorský,,,58,vedoucí dřevařské výroby,Přimda,561151,99,172,0,1072,3.4,3.40663531206304,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+7,6,1,640,Zdeněk,Renc,,,61,diplomovaný oční optik a optom,Rakovník,541656,102,102,0,817,2.08,2.08068048693526,0,0,0,0.0,0.0,0,0,,STŘEDOČEŠI
+8,6,2,704,Miroslav,Hylák,,,44,starosta obce,Postoloprty,566624,704,704,0,2502,6.37,6.37192482045535,0,0,0,0.0,0.0,0,0,,Severočeši.cz
+9,6,3,155,Bohuslav,Pichl,,,73,horník - důchodce,Plaňany,533581,155,155,0,200,0.5,0.50934650842968,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+10,6,4,47,Václav,Beneš,,,55,starosta obce,Blatno,562998,47,47,0,8344,21.24,21.24993633168644,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+11,6,5,129,Radovan,Šabata,,,52,technik stavební firmy,Louny,565971,99,129,0,1528,3.89,3.89140732440279,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+12,6,6,53,Jan,Kerner,Ing.,,44,starosta,Louny,565971,53,53,0,9051,23.05,23.05047623898538,2,0,10812,33.43,33.43124826072168,0,0,,Občanská demokratická strana
+13,6,7,167,František,Bušek,,,56,učitel škol 2. cyklu,Nové Strašecí,542164,99,167,0,1066,2.71,2.71481688993021,0,0,0,0.0,0.0,0,0,,Hnutí na podporu dobrov.hasičů a dal.dobrovolníků
+14,6,8,5,Svatopluk,Karásek,,,65,evangelický duchovní,Praha,1,99,5,0,1139,2.9,2.90072836550705,0,0,0,0.0,0.0,0,0,,Strana zelených
+15,6,9,626,Eva,Hůlová,,,43,starostka,Krušovice,541974,99,175,0,1289,3.28,3.28273824682931,0,0,0,0.0,0.0,0,0,,Národní socialisté a Rozumní
+16,6,10,172,Jaromír,Vápeník,,,44,obchodní ředitel,Postoloprty,566624,172,172,0,583,1.48,1.48474507207253,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+17,6,11,7,Marcel,Chládek,PhDr.,MBA,40,ředitel vzdělávacího institutu,Rakovník,541656,7,7,0,12747,32.46,32.46319971476595,2,0,21529,66.56,66.56875173927831,1,0,,Česká strana sociálně demokratická
+18,9,1,53,Zdeněk,Rokyta,Doc. MUDr.,CSc.,65,přednosta kliniky LF UK Plzeň,Plzeň,2,99,53,0,10975,27.28,27.28741919443063,2,0,14906,47.02,47.0205987192833,0,0,,Občanská demokratická strana
+19,9,2,55,Oldřich,Kodeda,Ing. arch.,,49,architekt,Plzeň,2,99,55,0,917,2.27,2.27996021879661,0,0,0,0.0,0.0,0,0,,"Koruna Česká (monarch.str.Čech, Moravy a Slezska)"
+20,9,3,47,Jiří,Valenta,PhDr. Mgr. et Mgr.,,42,odborný pracovník ve školství,Plzeň,2,47,47,0,5669,14.09,14.09497762307309,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+21,9,4,103,Richard,Sequens,MUDr.,PhD.,52,chirurg,Plzeň,2,99,103,0,9830,24.44,24.44057682744903,0,0,0,0.0,0.0,0,0,,Strana pro otevřenou společnost
+22,9,5,7,Jiří,Bis,Ing.,,67,poradce pro energetiku,Plzeň,2,7,7,0,10694,26.58,26.58876181004475,2,0,16795,52.97,52.97940128071669,1,0,,Česká strana sociálně demokratická
+23,9,6,5,Vladimír,Líbal,BcA.,,53,vedoucí kulturní pracovník,Klabava,559911,99,5,0,2135,5.3,5.30830432620586,0,0,0,0.0,0.0,0,0,,Strana zelených
+24,12,1,47,Taťána,Jirousová,MUDr.,,54,lékařka,Soběslav,553131,47,47,0,6279,15.92,15.92159647031975,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+25,12,2,626,Vilém,Mikula,Mgr.,,45,výzkumník v NASA,Tábor,552046,99,175,0,777,1.97,1.97023100134391,0,0,0,0.0,0.0,0,0,,Národní socialisté a Rozumní
+26,12,3,53,Miroslav,Beneš,Ing.,,52,konzultant,České Budějovice,544256,53,53,0,8816,22.35,22.3546415802419,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+27,12,4,5,Pavel,Buček,MUDr.,,53,lékař - stomatolog,Písek,549240,99,5,0,2390,6.06,6.06029870426249,0,0,0,0.0,0.0,0,0,,Strana zelených
+28,12,5,1,Josef,Kalbáč,Ing.,,68,senátor Parlamentu ČR,Třebohostice,551899,1,1,0,9183,23.28,23.28523974947384,2,0,14768,48.22,48.22519021650393,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+29,12,6,155,Iveta,Vilímková,Ing.,,40,podnikatelka,České Budějovice,544256,155,155,0,719,1.82,1.82316099094758,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+30,12,7,7,Miroslav,Krejča,Ing. Bc.,CSc.,52,rektor VŠ technické a ekon. ČB,Písek,549240,7,7,0,11273,28.58,28.5848315034105,2,0,15855,51.77,51.77480978349606,1,0,,Česká strana sociálně demokratická
+31,15,1,79,Tomáš,Hamet,,,40,písničkář,Strmilov,547239,79,79,0,592,1.37,1.37335869716512,0,0,0,0.0,0.0,0,0,,Právo a Spravedlnost
+32,15,2,5,Zdeněk,Guži,Bc.,,58,pedagog,Havlíčkův Brod,568414,5,5,0,341,0.79,0.79107316846842,0,0,0,0.0,0.0,0,0,,Strana zelených
+33,15,3,7,Milan,Štěch,,,54,"předseda ČMKOS, senátor",České Budějovice,544256,7,7,0,18588,43.12,43.1216072008537,2,0,21972,60.26,60.26826123926817,1,0,,Česká strana sociálně demokratická
+34,15,4,47,Jan,Zedníček,,,60,podnikatel,Kamenice nad Lipou,548111,47,47,0,4452,10.32,10.32802858070802,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+35,15,5,155,Marie,Paukejová,Ing.,,53,sociálně právní poradenství,České Budějovice,544256,155,155,0,604,1.4,1.40119704913469,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+36,15,6,641,Václav,Urbánek,MUDr.,CSc.,56,lékař a vědecký pracovník,Praha 2,500089,102,102,0,319,0.74,0.74003618985756,0,0,0,0.0,0.0,0,0,,Koalice US-DEU a SOS
+37,15,7,53,Stanislav,Bernard,Ing.,,53,spolumajitel rod.piv. Bernard,Humpolec,547999,99,53,0,13645,31.65,31.65452605205771,2,0,14485,39.73,39.73173876073182,0,0,,Občanská demokratická strana
+38,15,8,1,Jaroslav Maxmilián,Kašparů,MUDr.,PhD.,58,lékař,Rynárec,562009,1,1,0,4565,10.59,10.59017306175474,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+39,18,1,7,Josef,Řihák,MVDr.,,49,starosta Příbrami,Příbram,539911,7,7,0,15010,35.07,35.07910911682909,2,0,20971,62.57,62.57384973443933,1,0,,Česká strana sociálně demokratická
+40,18,2,155,Pavel,Jánský,,,61,odb.prac.Ministerstva kultury,Praha 10,500224,155,155,0,366,0.85,0.85536002243567,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+41,18,3,80,Vladimír,Kyselák,JUDr.,,58,advokát,Příbram,539911,99,80,0,2260,5.28,5.28173128607819,0,0,0,0.0,0.0,0,0,,Nezávislí kandidáti
+42,18,4,47,Jiřina,Humlová,Mgr.,,50,právnička,Příbram,539911,47,47,0,5943,13.88,13.88908364299235,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+43,18,5,640,Vladimír,Kříž,PaedDr.,,64,ředitel pobočky VŠ v Příbrami,Příbram,539911,102,102,0,2121,4.95,4.95688144149197,0,0,0,0.0,0.0,0,0,,STŘEDOČEŠI
+44,18,6,137,Martin,Bartoš,,,40,podnikatel,Kotenčice,513555,99,137,0,2169,5.06,5.06905980509009,0,0,0,0.0,0.0,0,0,,Strana zdravého rozumu
+45,18,7,53,Jaromír,Volný,Ing.,,62,senátor,Příbram,539911,53,53,0,9661,22.57,22.57823272336348,2,0,12543,37.42,37.42615026556066,0,0,,Občanská demokratická strana
+46,18,8,5,Alena,Šálová,,,49,manažerka,Příbram,539911,5,5,0,2128,4.97,4.97324078618336,0,0,0,0.0,0.0,0,0,,Strana zelených
+47,18,9,1,Josef,Vacek,Mgr.,,49,statutární náměstek hejtmana,Příbram,539911,1,1,0,3131,7.31,7.31730117553576,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+48,21,1,649,František,Nešetřil,Ing.,,61,hlavní metrolog společnosti,Praha,1,102,102,0,296,0.81,0.81349969768592,0,0,0,0.0,0.0,0,0,,Koalice US-DEU a KAN
+49,21,2,175,Eva,Hurychová,,,57,textařka - spisovatelka,Praha 10,500224,99,175,0,302,0.82,0.82998955642279,0,0,0,0.0,0.0,0,0,,Česká strana národně socialistická
+50,21,3,5,Helena,Illnerová,Prof. RNDr.,DrSc.,70,vědecká pracovnice,Praha 13,539694,99,5,0,6741,18.52,18.5263562908811,0,0,0,0.0,0.0,0,0,,Strana zelených
+51,21,4,155,David,Štěpán,,,44,učitel,Praha 8,500208,155,155,0,419,1.15,1.15154180179189,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+52,21,5,47,Petr,Šimůnek,,,43,podnikatel,Praha 8,500208,47,47,0,2453,6.74,6.74160391359314,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+53,21,6,176,Karel,Berka,,,68,poradce,Praha 4,500119,99,176,0,75,0.2,0.20612323421096,0,0,0,0.0,0.0,0,0,,Strana občanské sebeobrany
+54,21,7,103,Klára,Rulíková,,,41,ředitelka NNO,Praha 5,500143,99,103,0,872,2.39,2.39652613642609,0,0,0,0.0,0.0,0,0,,Strana pro otevřenou společnost
+55,21,8,53,Miroslav,Škaloud,RNDr.,,60,senátor Parlamentu ČR,Praha 5,500143,53,53,0,10104,27.76,27.76892211290056,2,0,17260,54.01,54.01007603967831,1,0,,Občanská demokratická strana
+56,21,9,7,Jiří,Witzany,Prof. Ing.,DrSc.,67,vysokoškolský učitel,Praha 6,500178,99,7,0,8128,22.33,22.33826196888913,2,0,14697,45.98,45.98992396032168,0,0,,Česká strana sociálně demokratická
+57,21,10,137,Jaroslav,Janeček,JUDr.,,57,advokát,Praha,1,137,137,0,403,1.1,1.10756884516022,0,0,0,0.0,0.0,0,0,,Strana zdravého rozumu
+58,21,11,144,Marie,Ulrichová Hakenová,,,60,dramaturgyně,Praha 5,500143,99,144,0,4930,13.54,13.54916726213378,0,0,0,0.0,0.0,0,0,,Věci veřejné
+59,21,12,1,John,Bok,,,62,důchodce,Praha,1,99,1,0,1663,4.57,4.57043917990435,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+60,24,1,53,Tomáš,Kladívko,,,50,člen Poslanecké sněmovny PČR,Praha 9,500216,53,53,0,11644,30.78,30.78224548602849,2,0,18348,54.05,54.05692062930882,1,0,,Občanská demokratická strana
+61,24,2,98,Petr,Cibulka,,,57,nezávislý novinář,Praha 7,500186,98,98,0,1832,4.84,4.84310148835487,0,0,0,0.0,0.0,0,0,,Volte Pravý Blok - www.cibulka.net
+62,24,3,129,Zuzana,Baudyšová,Ing.,,60,ředitelka Nadace Naše dítě,Květnice,564982,99,129,0,5491,14.51,14.51608639331694,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+63,24,4,1,Vlastimil,Ježek,Mgr.,,45,gen. řed. Národní knihovny ČR,Praha,1,99,1,0,2640,6.97,6.97914188278213,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+64,24,5,7,Jiří,Koskuba,MUDr.,,52,lékař,Praha 14,547361,7,7,0,9623,25.43,25.4395008856108,2,0,15594,45.94,45.94307937069117,0,0,,Česká strana sociálně demokratická
+65,24,6,626,Bohdan,Babinec,MUDr.,CSc.,64,lékař,Praha 9,500216,175,175,0,274,0.72,0.7243503317736,0,0,0,0.0,0.0,0,0,,Národní socialisté a Rozumní
+66,24,7,5,Ladislav,Hrabal,Ing.,CSc.,70,starosta MČ Praha-Klánovice,Praha-Klánovice,538302,5,5,0,2016,5.32,5.32952652866999,0,0,0,0.0,0.0,0,0,,Strana zelených
+67,24,8,47,Evžen,Smrkovský,Ing.,CSc.,64,technolog,Praha-Dolní Počernice,538175,99,47,0,3340,8.82,8.82967192745922,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+68,24,9,176,Vít,Olmer,Mgr.,,66,režisér,Praha 5,500143,99,176,0,380,1.0,1.0045734528247,0,0,0,0.0,0.0,0,0,,Strana občanské sebeobrany
+69,24,10,103,Šárka,Weberová,JUDr.,,44,právnička,Praha 4,500119,99,103,0,587,1.55,1.55180162317921,0,0,0,0.0,0.0,0,0,,Strana pro otevřenou společnost
+70,27,1,1,Pavel,Klener,Prof. MUDr.,DrSC.,71,lékař - vysokoškolský učitel,Praha,1,99,1,0,3645,11.82,11.82788720511406,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+71,27,2,5,Michael,Kocáb,,,54,hudební skladatel,Praha,1,99,5,0,4742,15.38,15.38761073433494,0,0,0,0.0,0.0,0,0,,Strana zelených
+72,27,3,176,Bohumil,Vejtasa,Ing.,,58,poradce,Praha,1,176,176,0,479,1.55,1.5543368919752,0,0,0,0.0,0.0,0,0,,Strana občanské sebeobrany
+73,27,4,7,Blanka,Haindlová,MUDr.,,53,lékařka,Praha,1,99,7,0,5490,17.81,17.81484245708537,2,0,10175,39.78,39.78650191600844,0,0,,Česká strana sociálně demokratická
+74,27,5,144,Martin,Stránský,MUDr.,,51,lékař,Praha,1,99,144,0,3704,12.01,12.01933997468929,0,0,0,0.0,0.0,0,0,,Věci veřejné
+75,27,6,47,Dagmar,Gušlbauerová,,,55,odborný referent,Praha,1,47,47,0,1887,6.12,6.12324366421131,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+76,27,7,53,Zdeněk,Schwarz,MUDr.,,45,lékař ZZS hl. m. Prahy,Praha,1,99,53,0,7946,25.78,25.78446961092903,2,0,15399,60.21,60.21349808399155,1,0,,Občanská demokratická strana
+77,27,8,629,Petr,Hannig,Mgr.,,62,hudební vydavatel,Praha,1,137,137,0,245,0.79,0.79501573806665,0,0,0,0.0,0.0,0,0,,Str.zdravého rozumu a Česká str.národně socialist.
+78,27,9,102,Martin,Mejstřík,,,46,"senátor, politik",Praha,1,99,102,0,2679,8.69,8.69325372359412,0,0,0,0.0,0.0,0,0,,Unie svobody - Demokratická unie
+79,30,1,650,Zdeněk,Joukl,Ing.,,67,"prakt.sociolog,ekolog,podnikat",Desná,563552,99,40,0,1143,2.59,2.59749113716934,0,0,0,0.0,0.0,0,0,,DOHODA pro senátní obvod Kladno
+80,30,2,172,Luboš,Vrtilka,Ing.,,45,zemědělský podnikatel,Drnek,512991,99,172,0,1914,4.34,4.34960458140169,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+81,30,3,53,Dan,Jiránek,Ing.,,45,primátor,Kladno,532053,53,53,0,16001,36.36,36.36260339969093,2,0,16333,43.85,43.85875402792696,0,0,,Občanská demokratická strana
+82,30,4,7,Jiří,Dienstbier,,,71,diplomat a novinář,Praha 2,500089,99,7,0,16232,36.88,36.88755567675665,2,0,20907,56.14,56.14124597207303,1,0,,Česká strana sociálně demokratická
+83,30,5,47,Zdeněk,Levý,,,57,starosta obce Drnek,Drnek,512991,47,47,0,7299,16.58,16.58712844286883,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+84,30,6,155,Pavla,Bernardová,,,44,obsluha čerpací stanice,Kladno,532053,155,155,0,1415,3.21,3.21561676211253,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+85,33,1,103,Miroslava,Švubová,,,62,Účetní,Děčín,562335,103,103,0,737,2.08,2.08392241135553,0,0,0,0.0,0.0,0,0,,Strana pro otevřenou společnost
+86,33,2,53,Vladislav,Raška,Ing.,,47,Primátor,Děčín,562335,53,53,0,7805,22.06,22.06921902392128,2,0,10581,38.34,38.34112403522121,0,0,,Občanská demokratická strana
+87,33,3,112,Josef,Zoser,,,59,Strarosta obce,Jiřetín pod Jedlovou,562572,112,112,0,7542,21.32,21.32556692868857,0,0,0,0.0,0.0,0,0,,HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST
+88,33,4,5,Monika,Lampová,Ing.,,43,Ředitelka nev.nezisk.o.Pondělí,Dolní Poustevna,562441,99,5,0,2106,5.95,5.95487191087485,0,0,0,0.0,0.0,0,0,,Strana zelených
+89,33,5,47,Václav,Šenkýř,Doc.Dr.,CSc.,67,Ekonomický poradce,Děčín,562335,47,47,0,5330,15.07,15.07097212011536,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+90,33,6,155,Ilona,Tůmová,,,44,Archivářka,Praha 1,500054,155,155,0,309,0.87,0.87372052253576,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+91,33,7,704,Mirko,Bernas,,,48,Podnikatel,Jiříkov,562581,99,704,0,2055,5.81,5.81066561103885,0,0,0,0.0,0.0,0,0,,Severočeši.cz
+92,33,8,79,Miroslav,Červenka,Mgr.,,52,Podnikatel,Děčín,562335,79,79,0,736,2.08,2.08109483684895,0,0,0,0.0,0.0,0,0,,Právo a Spravedlnost
+93,33,9,7,Jaroslav,Sykáček,Ing.,,49,Starosta města,Rumburk,562777,99,7,0,8746,24.72,24.72996663462082,2,0,17016,61.65,61.65887596477878,1,0,,Česká strana sociálně demokratická
+94,36,1,103,Jaromír,Dvořák,,,47,učitel,Nový Bor,561860,103,103,0,2822,9.13,9.13682574629281,0,0,0,0.0,0.0,0,0,,Strana pro otevřenou společnost
+95,36,2,53,Petr,Skokan,,,45,hejtman,Česká Lípa,561380,53,53,0,9918,32.11,32.11163634008936,2,0,10711,40.46,40.4600914138934,0,0,,Občanská demokratická strana
+96,36,3,155,Oldřich,Němec,Mgr.,,52,ředitel odboru MPSV,Chrastava,564117,99,155,0,1226,3.96,3.96943599041636,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+97,36,4,47,Miloš,Tita,Ing.,,51,vrchní komisař pož. ochrany,Ralsko,562017,99,47,0,4877,15.79,15.79032571391568,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+98,36,5,7,Karel,Kapoun,Ing.,,55,místostarosta MÚ Doksy,Doksy,561495,7,7,0,8574,27.76,27.76015022987761,2,0,15762,59.53,59.53990858610659,1,0,,Česká strana sociálně demokratická
+99,36,6,129,František,Novosad,JUDr.,,56,podnikatel,Nový Bor,561860,99,129,0,1439,4.65,4.65906883377582,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+100,36,7,5,Miroslav,Hudec,PhDr.,,56,ředitel Pedagog.-psych.poradny,Česká Lípa,561380,5,5,0,2030,6.57,6.57255714563232,0,0,0,0.0,0.0,0,0,,Strana zelených
+101,39,1,7,Pavel,Trpák,MUDr.,,50,lékař,Trutnov,579025,7,7,0,10039,27.56,27.56906684242324,2,0,16241,52.86,52.86095560473896,1,0,,Česká strana sociálně demokratická
+102,39,2,47,Jiří,Gangur,,,50,starosta obce,Jívka,579378,47,47,0,4202,11.53,11.53951776789147,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+103,39,3,644,Jan,Sobotka,Ing.,,47,starosta města Vrchlabí,Vrchlabí,579858,99,102,0,4209,11.55,11.55874114351623,0,0,0,0.0,0.0,0,0,,"Koalice US-DEU, SOS a VPM"
+104,39,4,53,Ivan,Adamec,Mgr.,,48,"senátor PČR, starosta",Trutnov,579025,53,53,0,11169,30.67,30.67226890756302,2,0,14483,47.13,47.13904439526103,0,0,,Občanská demokratická strana
+105,39,5,181,Zbyněk,Vobořil,prof. MUDr.,DrSc.,67,lékař - profesor chirurgie,Dvůr Králové nad Labem,579203,99,181,0,5270,14.47,14.47245564892623,0,0,0,0.0,0.0,0,0,,Nestraníci
+106,39,6,5,Jiří,Kulich,RNDr.,,47,ředitel neziskové organizace,Horní Maršov,579262,5,5,0,1525,4.18,4.18794968967979,0,0,0,0.0,0.0,0,0,,Strana zelených
+107,42,1,47,František,Švarc,,,56,předseda OV KSČM,Radim,533629,47,47,0,6724,15.52,15.52420751275598,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+108,42,2,129,Václav,Navrátil,MUDr.,,61,lékař,Kolín,533165,129,129,0,8730,20.15,20.15561147923256,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+109,42,3,53,Jiří,Buřič,,,56,starosta,Kolín,533165,53,53,0,10655,24.6,24.60000461755131,2,0,13679,40.03,40.03453523764926,0,0,,Občanská demokratická strana
+110,42,4,626,Jiří,Zub,,,56,podnikatel,Lysá nad Labem,537454,99,175,0,647,1.49,1.49377784960635,0,0,0,0.0,0.0,0,0,,Národní socialisté a Rozumní
+111,42,5,640,Jan,Černý,MVDr.,,49,"vet.lékař, místostarosta Kost.",Kostelec nad Černými Lesy,533416,102,102,0,1575,3.63,3.63632165862443,0,0,0,0.0,0.0,0,0,,STŘEDOČEŠI
+112,42,6,167,Jaroslav,Němeček,,,58,podnikatel - elektrotechnik,Tři Dvory,533769,99,167,0,800,1.84,1.84702052501558,0,0,0,0.0,0.0,0,0,,Hnutí na podporu dobrov.hasičů a dal.dobrovolníků
+113,42,7,5,Robert,Drda,,,40,ředitel obchodní společnosti,Veltruby,533858,5,5,0,2821,6.51,6.5130561263362,0,0,0,0.0,0.0,0,0,,Strana zelených
+114,42,8,155,Jiří,Hanzlíček,RNDr.,,70,poradce,Praha 4,500119,155,155,0,301,0.69,0.69494147253711,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+115,42,9,7,Pavel,Lebeda,MUDr.,,68,lékař,Kolín,533165,99,7,0,11060,25.53,25.53505875834045,2,0,20489,59.96,59.96546476235073,1,0,,Česká strana sociálně demokratická
+116,45,1,5,Pavel,Dobeš,,,59,"folk.písničkář,textař a sklad.",Hradec Králové,569810,99,5,0,2601,5.45,5.45020220857867,0,0,0,0.0,0.0,0,0,,Strana zelených
+117,45,2,129,Karel,Barták,Doc. MUDr.,CSc.,66,lékař,Hradec Králové,569810,99,129,0,3255,6.82,6.82061060704482,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+118,45,3,53,Leoš,Heger,Doc. MUDr.,CSc.,60,ředitel Fakultní nemocnice,Hradec Králové,569810,99,53,0,15518,32.51,32.51681579112796,2,0,19277,46.33,46.33560079801937,0,0,,Občanská demokratická strana
+119,45,4,47,Lenka,Trkalová,,DiS.,41,asistentka poslankyně,Hradec Králové,569810,99,47,0,4725,9.9,9.90088636506506,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+120,45,5,1,Vladimír,Derner,Ing.,,52,stavební inženýr,Třebechovice pod Orebem,571041,1,1,0,3277,6.86,6.86670997213083,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+121,45,6,7,Vladimír,Dryml,MUDr.,,56,ředitel nemocnice,Vrchlabí,579858,7,7,0,18347,38.44,38.44477505605263,2,0,22326,53.66,53.66439920198062,1,0,,Česká strana sociálně demokratická
+122,48,1,155,Jiří,Syrový,Ing.,,57,stavební inženýr,Třebechovice pod Orebem,571041,99,155,0,947,2.42,2.42125178973205,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+123,48,2,1,Drahomíra,Peřinová,MUDr.,,55,lékařka,Pardubice,555134,99,1,0,4201,10.74,10.74094906933933,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+124,48,3,7,Miroslav,Antl,JUDr.,,53,právník,Hradec Králové,569810,99,7,0,17145,43.83,43.83565146246676,2,0,17642,59.6,59.60537874180687,1,0,,Česká strana sociálně demokratická
+125,48,4,129,Václava,Domšová,Ing.,,51,senátorka,Deštné v Orlických horách,576247,99,129,0,7417,18.96,18.96348946614849,2,0,11956,40.39,40.39462125819312,0,0,,SNK Evropští demokraté
+126,48,5,53,Vladimír,Benák,Mgr.,,61,ved.odb.pers.práce a vzděl.,Potštejn,576671,53,53,0,5824,14.89,14.89057066884843,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+127,48,6,47,Bedřich,Chasák,,,62,krajský manažer KSČM,Rychnov nad Kněžnou,576069,47,47,0,3578,9.14,9.14808754346492,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+128,51,1,47,Jan,Slámečka,,,56,předseda OV KSČM,Bystřice nad Pernštejnem,595411,47,47,0,4438,10.57,10.57371581054036,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+129,51,2,129,Josef,Novotný,Ing.,,56,senátor,Bystřice nad Pernštejnem,595411,129,129,0,9706,23.12,23.12494043648146,2,0,13018,40.68,40.68125,0,0,,SNK Evropští demokraté
+130,51,3,158,Květoslav,Šafránek,,,55,starosta městyse,Bohdalov,595292,99,158,0,973,2.31,2.31821214142761,0,0,0,0.0,0.0,0,0,,"""Sdružení nestraníků"""
+131,51,4,192,Zdeněk,Tomášek,,,41,manažer,Bystřice nad Pernštejnem,595411,99,192,0,885,2.1,2.10854855618031,0,0,0,0.0,0.0,0,0,,POLITIKA 21
+132,51,5,53,Jaromír,Brychta,Mgr.,,50,starosta města Žďár nad Sáz.,Žďár nad Sázavou,595209,53,53,0,5607,13.35,13.35890593729152,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+133,51,6,1,Josef,Mach,,,53,strojvedoucí,Osová Bítýška,596345,1,1,0,6100,14.53,14.53349852282474,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+134,51,7,7,Dagmar,Zvěřinová,Ing.,,54,místostarostka,Žďár nad Sázavou,595209,7,7,0,14263,33.98,33.98217859525397,2,0,18982,59.31,59.31875,1,0,,Česká strana sociálně demokratická
+135,54,1,47,Marta,Bayerová,RNDr.,,52,poslankyně PSP ČR,Znojmo,593711,47,47,0,14150,41.39,41.39847864248098,2,0,20900,69.24,69.24427657953152,1,0,,Komunistická strana Čech a Moravy
+136,54,2,5,Tomáš,Rothröckl,Ing.,,52,ředitel Správy Nár.parku Podyj,Podmolí,594644,99,5,0,2034,5.95,5.9508484493856,0,0,0,0.0,0.0,0,0,,Strana zelených
+137,54,3,53,Petr,Nezveda,Ing.,,41,starosta,Znojmo,593711,53,53,0,5903,17.27,17.27033352837916,2,0,9283,30.75,30.75572342046847,0,0,,Občanská demokratická strana
+138,54,4,129,Josef,Molín,Mgr.,,63,"důchodce, zastupitel",Znojmo,593711,99,129,0,540,1.57,1.57987126974839,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+139,54,5,7,Ladislav,Skopal,Ing.,,50,poslanec,Dobšice,537101,7,7,0,5788,16.93,16.93387946167349,0,0,0,0.0,0.0,0,0,,Česká strana sociálně demokratická
+140,54,6,155,Jiří,Peřinka,,,57,starosta obce,Vranovská Ves,595101,99,155,0,664,1.94,1.9426565242832,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+141,54,7,1,Alois,Vybíral,Ing.,,56,provozní náměstek SÚS JMK,Plenkovice,550051,1,1,0,4610,13.48,13.48741954359274,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+142,54,8,626,Jiří,Stanislav,,,61,starosta,Horní Dubňany,594083,175,137,0,491,1.43,1.4365125804564,0,0,0,0.0,0.0,0,0,,Národní socialisté a Rozumní
+143,57,1,47,Zdeněk,Koudelka,Ing. arch.,,52,ředitel Technických služeb,Bučovice,592943,47,47,0,5981,14.3,14.30690108838655,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+144,57,2,7,Ivo,Bárek,Ing.,,46,senátor,Vyškov,592889,99,7,0,16558,39.6,39.60770242793924,2,0,20297,61.09,61.09321855341179,1,0,,Česká strana sociálně demokratická
+145,57,3,129,Alena,Machayová,Ing.,,44,vedoucí finančního oddělení,Vyškov,592889,129,129,0,925,2.21,2.21265398875732,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+146,57,4,53,Luboš,Kadlec,Mgr.,,54,místostarosta,Vyškov,592889,53,53,0,6162,14.73,14.73986365267312,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+147,57,5,5,Anna,Šabatová,,,57,vyučující na FF UK Praha,Praha,1,99,5,0,2570,6.14,6.14759000119602,0,0,0,0.0,0.0,0,0,,Strana zelených
+148,57,6,1,Václav,Horák,Ing.,,47,náměstek hejtmana JMK,Šlapanice,583952,1,1,0,9609,22.98,22.98528884104772,2,0,12926,38.9,38.9067814465882,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+149,60,1,138,Jiří,Zlatuška,prof. RNDr.,CSc.,51,profesor Masarykovy univerzity,Brno,3,99,138,0,9063,19.24,19.24530705852374,0,0,0,0.0,0.0,0,0,,"""Liberální reformní strana"""
+150,60,2,53,Petr,Duchoň,RNDr.,,52,poslanec Evropského parlamentu,Brno,3,53,53,0,13552,28.77,28.77771171324216,2,0,15622,41.79,41.79799331103678,0,0,,Občanská demokratická strana
+151,60,3,47,Daniel,Borecký,RNDr.,CSc.,55,vysokoškolský učitel,Brno,3,47,47,0,4077,8.65,8.65752144737959,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+152,60,4,7,Miloš,Janeček,prof. MUDr.,CSc.,57,lékař,Česká,582921,7,7,0,16240,34.48,34.48568759024887,2,0,21753,58.2,58.20200668896321,1,0,,Česká strana sociálně demokratická
+153,60,5,129,Eliška,Kovářová,Mgr.,,64,místostarostka,Brno,3,129,129,0,964,2.04,2.04705682493841,0,0,0,0.0,0.0,0,0,,SNK Evropští demokraté
+154,60,6,1,Zdeněk,Kolíbal,prof. Ing.,CSc.,66,vysokoškolský profesor,Brno,3,1,1,0,3196,6.78,6.7867153656672,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+155,63,1,80,Vlasta,Jančárová,JUDr.,,51,právník,Teplice nad Bečvou,519031,99,80,0,2278,6.28,6.28171189058018,0,0,0,0.0,0.0,0,0,,Nezávislí kandidáti
+156,63,2,47,Josef,Nekl,RSDr.,,55,asistent poslance,Přerov,511382,47,47,0,6365,17.55,17.55184204720935,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+157,63,3,40,Vladimír,Hučín,,,56,administrativní pracovník,Přerov,511382,99,40,0,3753,10.34,10.34910655195234,0,0,0,0.0,0.0,0,0,,Klub angažovaných nestraníků
+158,63,4,7,Jiří,Lajtoch,Ing.,,54,primátor města Přerova,Přerov,511382,7,7,0,11811,32.56,32.56949040370615,2,0,18030,61.06,61.0627561215159,1,0,,Česká strana sociálně demokratická
+159,63,5,1,Jiří,Bakalík,Ing.,,47,tajemník magistrátu,Přerov,511382,1,1,0,3630,10.0,10.00992720052945,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+160,63,6,5,Roman,Haken,,,46,ředitel Centra pro kom.práci,Přerov,511382,99,5,0,1021,2.81,2.81546437238032,0,0,0,0.0,0.0,0,0,,Strana zelených
+161,63,7,53,Eduard,Sohlich,MUDr.,MBA,52,ředitel nemocnice,Dřevohostice,513229,53,53,0,7406,20.42,20.42245753364217,2,0,11497,38.93,38.93724387848409,0,0,,Občanská demokratická strana
+162,66,1,5,Stanislav,Pavlík,Ing.,Ph.D.,41,lesnický ekonom,Šternberk,505188,5,5,0,1757,4.66,4.66827855567659,0,0,0,0.0,0.0,0,0,,Strana zelených
+163,66,2,7,Karel,Korytář,Ing.,,59,elektroinženýr,Uničov,505587,7,7,0,14109,37.48,37.48704732045593,2,0,20439,68.28,68.28934179752756,1,0,,Česká strana sociálně demokratická
+164,66,3,47,Jiří,Černý,MUDr.,,53,lékař,Zábřeh,541354,99,47,0,6444,17.12,17.12144963732497,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+165,66,4,88,Jana,Hamplová,Mgr.,,43,advokátka,Mohelnice,540471,88,88,0,2893,7.68,7.6865850094322,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ
+166,66,5,172,Ctirad,Lolek,PhDr.,,60,starosta města,Loštice,540196,99,172,0,2653,7.04,7.0489146318782,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+167,66,6,155,Jan,Rytíř,JUDr.,,40,právník,Velký Týnec,505650,99,155,0,1051,2.79,2.79246486170523,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+168,66,7,53,Vítězslav,Vavroušek,MUDr.,MBA,52,lékař,Šternberk,505188,53,53,0,8730,23.19,23.19525998352684,2,0,9491,31.71,31.71065820247243,0,0,,Občanská demokratická strana
+169,69,1,172,Libor,Tobola,Ing.,,57,ekonom,Staříč,552569,99,172,0,2773,6.26,6.26850826231435,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+170,69,2,53,František,Kopecký,Ing.,,54,senátor,Fryčovice,598135,53,53,0,9891,22.35,22.35911115129868,2,0,10816,31.77,31.7743830787309,0,0,,Občanská demokratická strana
+171,69,3,47,Svatomír,Recman,Ing.,,55,systémový inženýr,Frýdek-Místek,598003,47,47,0,7154,16.17,16.17198272938942,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+172,69,4,7,Eva,Richtrová,Ing.,,60,primátorka,Frýdek-Místek,598003,7,7,0,18519,41.86,41.8631462350521,2,0,23224,68.22,68.2256169212691,1,0,,Česká strana sociálně demokratická
+173,69,5,1,Petr,Hartmann,Ing.,,47,ředitel zdravotn. zařízení,Frýdek-Místek,598003,1,1,0,5900,13.33,13.33725162194543,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+174,72,1,88,Alois,Dlouhý,JUDr.,,61,státní zástupce,Ostrava,4,99,88,0,2188,5.93,5.93839055502781,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ
+175,72,2,1,Norbert,Havlík,Ing.,,68,"ekonom, gastronom",Hlučín,507016,1,1,0,2429,6.59,6.59248201926991,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+176,72,3,172,Blanka,Štěpánová,,,47,finanční poradce,Ostrava,4,99,172,0,1524,4.13,4.13624643777988,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ DEMOKRATÉ
+177,72,4,47,Věra,Flasarová,RSDr. Ing.,,55,poslankyně Evr. parlamentu,Ostrava,4,47,47,0,5730,15.55,15.5516352286606,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+178,72,5,53,Václav,Roubíček,Prof. Ing.,CSc.,64,vysokoškolský pedagog,Vřesina,568244,53,53,0,10503,28.5,28.50590310761297,2,0,9468,35.02,35.02645111168658,0,0,,Občanská demokratická strana
+179,72,6,7,Petr,Guziana,MUDr.,,56,lékař,Ostrava,4,7,7,0,14471,39.27,39.27534265164879,2,0,17563,64.97,64.97354888831342,1,0,,Česká strana sociálně demokratická
+180,72,7,72,Alexander,Pálffy,Doc. Ing.,CSc.,58,poradce,Ostrava,4,72,72,2,0,0.0,0.0,0,0,0,0.0,0.0,0,0,,Coexistentia
+181,75,1,53,Petr,Trojek,Ing.,,53,starosta obce,Petrovice u Karviné,599077,53,53,0,3750,13.11,13.11463943484647,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+182,75,2,7,Radek,Sušil,MUDr.,,41,lékař,Karviná,598917,99,7,0,15254,53.34,53.34685598377281,1,0,0,0.0,0.0,0,0,,Česká strana sociálně demokratická
+183,75,3,5,Peter,Halák,JUDr.,,58,právník,Karviná,598917,5,5,0,569,1.98,1.98992795691403,0,0,0,0.0,0.0,0,0,,Strana zelených
+184,75,4,155,Vladimír,Pelc,PhDr.,,54,daňový specialista,Praha,1,155,155,0,172,0.6,0.60152479541162,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+185,75,5,80,Roman,Gawlas,Ing.,,56,referent,Česká Ves,569356,99,80,2,0,0.0,0.0,0,0,0,0.0,0.0,0,0,,Nezávislí kandidáti
+186,75,6,80,Josef,Vaculík,Mgr.,,60,tel. reportér a publicista,Karviná,598917,99,80,2,0,0.0,0.0,0,0,0,0.0,0.0,0,0,,Nezávislí kandidáti
+187,75,7,47,Eduard,Matykiewicz,,,61,senátor Parlamentu ČR,Karviná,598917,47,47,0,4844,16.94,16.94061691263901,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+188,75,8,80,Ondřej,Feber,,,56,důlní technik,Stonava,599140,99,80,0,4005,14.0,14.00643491641603,0,0,0,0.0,0.0,0,0,,Nezávislí kandidáti
+189,78,1,53,Miroslav,Šindlář,MUDr.,,52,lékař,Zlín,585068,53,53,0,9132,21.42,21.42052917995871,2,0,11737,36.32,36.32958801498127,0,0,,Občanská demokratická strana
+190,78,2,7,Alena,Gajdůšková,PaedDr.,,54,pedagog,Zlín,585068,7,7,0,18973,44.5,44.50412835428785,2,0,20570,63.67,63.67041198501872,1,0,,Česká strana sociálně demokratická
+191,78,3,1,Josef,Devát,MUDr.,,68,soukromý lékař,Zlín,585068,99,1,0,5472,12.83,12.83542878588853,0,0,0,0.0,0.0,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+192,78,4,47,Radomír,Rafaja,,,64,podnikatel,Zlín,585068,47,47,0,2872,6.73,6.73672358791518,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy
+193,78,5,155,Zdeněk,Vítek,Ing.,,61,podnikatel,Zlín,585068,99,155,0,386,0.9,0.9054231563145,0,0,0,0.0,0.0,0,0,,SDŽ - Strana důstojného života
+194,78,6,166,Pavel,Jungmann,,,52,"nakladatel, knihkupec",Zlín,585068,99,166,0,4770,11.18,11.18877838243572,0,0,0,0.0,0.0,0,0,,"""Nezávislí starostové pro kraj"""
+195,78,7,88,Mojmír,Novák,Ing.,,47,manager obchodu,Tečovice,549649,99,88,0,1027,2.4,2.40898855319947,0,0,0,0.0,0.0,0,0,,NEZÁVISLÍ
+196,81,1,166,Josef,Bartoněk,Ing.,,48,starosta,Osvětimany,592471,99,166,0,3111,8.19,8.19417373439393,0,0,0,0.0,0.0,0,0,,"""Nezávislí starostové pro kraj"""
+197,81,2,7,Hana,Doupovcová,Ing.,,49,chemik technolog,Uherské Hradiště,592005,7,7,0,11704,30.82,30.82758257388189,2,0,15121,50.99,50.99487387022797,1,0,,Česká strana sociálně demokratická
+198,81,3,137,Marta,Chovancová,JUDr.,LL.M,50,právník,Praha 9,500216,99,137,0,299,0.78,0.78754675235737,0,0,0,0.0,0.0,0,0,,Strana zdravého rozumu
+199,81,4,53,Libor,Karásek,Ing.,,45,starosta města Uh. Hradiště,Uherské Hradiště,592005,53,53,0,7621,20.07,20.07322341041984,0,0,0,0.0,0.0,0,0,,Občanská demokratická strana
+200,81,5,153,Stanislav,Horňák,Ing.,,44,nábytkář a učitel nábytkářství,Veselí nad Moravou,586722,99,153,0,1095,2.88,2.88415951114154,0,0,0,0.0,0.0,0,0,,Dělnická strana
+201,81,6,1,Josef,Vaculík,Ing.,,51,senátor,Staré Město,550752,1,1,0,10423,27.45,27.45351103619027,2,0,14531,49.0,49.00512612977202,0,0,,Křesťan.a demokrat.unie-Českosl.strana lidová
+202,81,7,47,Jindřich,Kovář,Ing.,CSc.,68,starosta obce,Stupava,592633,99,47,0,3713,9.77,9.77980298161512,0,0,0,0.0,0.0,0,0,,Komunistická strana Čech a Moravy

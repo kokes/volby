@@ -1,0 +1,741 @@
+,BYDLISTEK,BYDLISTEN,ESTRANA,JMENO,MANDAT,NSTRANA,PLATNOST_x,POCHLASU,POCPROC,POCPROCVSE,PORADIMAND,PORADINAHR,PORCISLO,POVOLANI,PRIJMENI,PSTRANA,STATOBCAN,TITULPRED,TITULZA,VEK,NAZEVCELK,NAZEV_STRE,PLATNOST_y,POCMANDCR,POCSTRVKO,SLOZENI,STAVREG,VSTRANA,ZKRATKAE30,ZKRATKAE8
+0,532819,Slaný,1,Vlastimil,0,713,0,3853,0,17.32,0,0,1,poslanec,Tlustý,53,CZ,Ing.,,53,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+1,999995,Brusel,1,Vladimír,0,713,0,7030,0,31.6,0,0,2,europoslanec,Železný,172,CZ,PhDr.,,64,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+2,531979,Zadní Třebaň,1,Jan,0,713,0,1505,0,6.76,0,0,3,poslanec,Schwippel,99,CZ,Ing.,CSc.,42,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+3,3,Brno,1,Andrea,0,713,0,647,0,2.9,0,0,4,ekonomická poradkyně,Hudlíková,713,CZ,Ing.,DiS.,29,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+4,512991,Drnek,1,Luboš,0,713,0,225,0,1.01,0,0,5,zemědělský podnikatel,Vrtilka,99,CZ,Ing.,,46,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+5,3,Brno,1,Ivan,0,713,0,229,0,1.02,0,0,6,lékař,Čundrle,701,CZ,Doc. MUDr.,CSc.,62,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+6,559300,Nýřany,1,Vladimír,0,713,0,52,0,.23,0,0,7,obchodní manažer,Litwan,172,CZ,Mgr.,,48,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+7,567027,Most,1,Miroslav,0,713,0,127,0,.57,0,0,8,ředitel výroby,Líbal,172,CZ,Ing.,,30,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+8,558885,Horní Bříza,1,Alena,0,713,0,99,0,.44,0,0,9,učitelka,Šůmová,172,CZ,Mgr.,,46,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+9,575712,Staré Jesenčany,1,Robert,0,713,0,219,0,.98,0,0,10,vedoucí katedry,Baťa,99,CZ,Ing.,Ph.D.,34,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+10,591459,Přibyslavice,1,Rostislav,0,713,0,82,0,.36,0,0,11,ekonomický poradce,Stráník,99,CZ,Ing.,Ph.D.,29,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+11,4,Ostrava,1,Naděžda,0,713,0,64,0,.28,0,0,12,lékařka,Stauderová,172,CZ,MUDr.,,64,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+12,3,Brno,1,Anna,0,713,0,74,0,.33,0,0,13,právnička,Haisová,172,CZ,JUDr.,,54,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+13,540196,Loštice,1,Ctirad,0,713,0,54,0,.24,0,0,14,starosta,Lolek,99,CZ,PhDr.,,60,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+14,3,Brno,1,Jana,0,713,0,87,0,.39,0,0,15,překladatelka,Kudělková,172,CZ,Mgr.,,29,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+15,565229,Lovosice,1,Vladimír,0,713,0,67,0,.3,0,0,16,místostarosta,John,172,CZ,,,46,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+16,592889,Vyškov,1,Pavel,0,713,0,58,0,.26,0,0,17,učitel,Hanák,172,CZ,Mgr.,,47,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+17,505161,Štěpánov,1,Mojmír,0,713,0,28,0,.12,0,0,18,starosta,Lýsek,99,CZ,,,58,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+18,3,Brno,1,František,0,713,0,55,0,.24,0,0,19,architekt,Kabelka,172,CZ,Ing. Arch.,,50,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+19,562971,Chomutov,1,Otta,0,713,0,22,0,.09,0,0,20,podnikatel,Hercík,172,CZ,,,59,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+20,523704,Šumperk,1,Stanislav,0,713,0,47,0,.21,0,0,21,ekonom,Bartošek,172,CZ,Mgr.,,48,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+21,563889,Liberec,1,Lenka,0,713,0,88,0,.39,0,0,22,studentka,Šašková,172,CZ,,,21,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+22,575712,Staré Jesenčany,1,Stanislav,0,713,0,27,0,.12,0,0,23,soudní překladatel,Baťa,172,CZ,Ing.,,67,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+23,546518,Loučná pod Klínovcem,1,Jan,0,713,0,24,0,.1,0,0,24,obchodní zástupce,Fuka,713,CZ,,,56,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+24,3,Brno,1,Lenka,0,713,0,17,0,.07,0,0,25,učitelka,Malá,172,CZ,Mgr.,,45,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+25,523704,Šumperk,1,Dalibor,0,713,0,9,0,.04,0,0,26,kartograf,Matějíček,172,CZ,Ing.,,49,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+26,599069,Orlová,1,Věra,0,713,0,14,0,.06,0,0,27,důchodkyně,Böhmová,172,CZ,,,74,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+27,523704,Šumperk,1,Miroslav,0,713,0,12,0,.05,0,0,28,podnikatel,Horáček,172,CZ,,,50,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+28,567027,Most,1,Martin,0,713,0,38,0,.17,0,0,29,podnikatel,Fraško,172,CZ,,,39,Libertas.cz,Libertas.cz,0,0,1,713,0,713,Libertas.cz,Libertas
+29,1,Praha,2,Zuzana,1,1,0,52503,29.09,29.09,1,0,1,poslankyně EP,Roithová,1,CZ,MUDr.,MBA,56,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+30,505587,Uničov,2,Jan,1,1,0,23154,12.83,12.83,2,0,2,poslanec EP,Březina,1,CZ,Ing.,,55,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+31,592617,Strání,2,Ondřej,0,1,0,5044,0,2.79,0,1,3,"kraj.zastupitel, člen Výb. EU",Benešík,1,CZ,,BBS,32,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+32,1,Praha,2,Marie,0,1,0,2286,0,1.26,0,2,4,poradkyně ministra,Jílková,1,CZ,Mgr.,,31,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+33,2,Plzeň,2,Jaroslav,0,1,0,5377,0,2.97,0,3,5,podnikatel,Lobkowicz,1,CZ,,,66,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+34,3,Brno,2,David,0,1,0,4507,0,2.49,0,4,6,ředitel poradců ministra,Macek,1,CZ,Mgr.,,32,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+35,523704,Šumperk,2,Ivo,0,1,0,1067,0,.59,0,5,7,náměstek ministra dopravy,Vykydal,1,CZ,Ing.,,44,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+36,1,Praha,2,Pavel,0,1,0,5793,0,3.21,0,6,8,lékař-vysokoškolský učitel,Klener,99,CZ,prof. MUDr.,DrSc.,72,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+37,507016,Hlučín,2,Petr,0,1,0,1064,0,.58,0,7,9,projektový manažer,Adamec,1,CZ,Ing.,,50,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+38,1,Praha,2,Pavel,0,1,0,2276,0,1.26,0,8,10,ministr,Svoboda,1,CZ,doc. JUDr.,DEA,47,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+39,507270,Hradec nad Moravicí,2,Josef,0,1,0,984,0,.54,0,9,11,parlamentní zpravodaj,Vícha,1,CZ,,,59,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+40,547794,Hodonín,2,Libor,0,1,0,3345,0,1.85,0,10,12,poslanec PS PČR,Ambrozek,1,CZ,RNDr.,,42,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+41,581879,Kunštát,2,Marie,0,1,0,1382,0,.76,0,11,13,předsedkyně Výboru pro social.,Cacková,1,CZ,JUDr.,,43,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+42,571041,Třebechovice pod Orebem,2,Tomáš,0,1,0,522,0,.28,0,12,14,jednatel společnosti,Zdechovský,1,CZ,Mgr.,,29,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+43,1,Praha,2,Daniel,0,1,0,109,0,.06,0,13,15,doktorand,Feranc,1,CZ,Mgr.,,29,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+44,544566,Nový Hrozenkov,2,Jindřich,0,1,0,734,0,.4,0,14,16,náměstek hejtmana,Ondruš,1,CZ,Ing. Bc.,,44,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+45,501841,Grygov,2,Pavel,0,1,0,541,0,.29,0,15,17,náměstek hejtmana,Horák,1,CZ,Ing.,,44,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+46,549592,Mirovice,2,Marie,0,1,0,411,0,.22,0,16,18,učitelka základní školy,Hrdinová,1,CZ,Ing. Bc.,,41,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+47,596817,Stránecká Zhoř,2,Veronika,0,1,0,330,0,.18,0,17,19,"celní deklarantka, ref. logist",Poulová,1,CZ,,,28,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+48,589250,Prostějov,2,Jitka,0,1,0,909,0,.5,0,18,20,dětská lékařka,Chalánková,1,CZ,MUDr.,,52,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+49,537004,Nymburk,2,Jiří,0,1,0,193,0,.1,0,19,21,ředitel gymnázia,Kuhn,99,CZ,RNDr.,,49,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+50,596230,Nové Město na Moravě,2,Helena,0,1,0,477,0,.26,0,20,22,učitelka,Šustrová,1,CZ,Mgr.,,27,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+51,531405,Kobylnice,2,Lubomír,0,1,0,360,0,.19,0,21,23,stavební inženýr,Šmíd,1,CZ,Ing.,,49,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+52,547794,Hodonín,2,Zdeňka,0,1,0,321,0,.17,0,22,24,referentka evropských projektů,Tesaříková,1,CZ,Ing.,,25,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+53,1,Praha,2,Ludmila,0,1,0,78,0,.04,0,23,25,realitní makléřka,Mojžíšová,99,CZ,,DiS.,27,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+54,3,Brno,2,Jiří,0,1,0,246,0,.13,0,24,26,odborný asistent,Mihola,1,CZ,Mgr.,Ph.D.,37,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+55,579289,Vísky,2,Stanislav,0,1,0,284,0,.15,0,25,27,řed. jednatel spol. starosta,Kamba,1,CZ,Ing.,,52,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+56,593559,Rousínov,2,František,0,1,0,214,0,.11,0,26,28,starosta města,Havíř,1,CZ,,,52,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+57,1,Praha,2,Marie,0,1,0,134,0,.07,0,27,29,asistentka,Heřmánková,99,CZ,,,41,Křesťanská a demokratická unie - Československá strana lidová,Křesťan.a demokrat.unie-Českosl.strana lidová,0,2,1,001,0,1,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL
+58,539571,Průhonice,3,Jana,0,144,1,0,0,0,0,0,1,manažerka projektu,Zachová,144,CZ,,,40,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+59,1,Praha,3,Kateřina,0,144,0,7033,0,12.41,0,0,2,šéfredaktorka,Klasnová,144,CZ,,,31,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+60,586846,Jihlava,3,Libor,0,144,0,1137,0,2,0,0,3,podnikatel,Forman,144,CZ,,,43,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+61,513067,Černotín,3,Lenka,0,144,0,1846,0,3.25,0,0,4,konzultant,Andrýsová,99,CZ,,,24,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+62,1,Praha,3,Marek,0,144,0,613,0,1.08,0,0,5,technický manažer,Kukrle,144,CZ,,,44,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+63,1,Praha,3,Jaroslav,0,144,0,455,0,.8,0,0,6,podnikatel,Škárka,144,CZ,,,38,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+64,1,Praha,3,Karolína,0,144,0,923,0,1.62,0,0,7,právník,Peake,144,CZ,,,33,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+65,578347,Litomyšl,3,Michal,0,144,0,602,0,1.06,0,0,8,ekonom,Pavel,144,CZ,,,30,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+66,574121,Jaroměř,3,Jan,0,144,0,576,0,1.01,0,0,9,"historik, žurnalista",Hrdina,144,CZ,,,28,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+67,538132,Čelákovice,3,Radim,0,144,0,301,0,.53,0,0,10,ekonom,Vysloužil,144,CZ,,,28,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+68,583839,Říčany,3,Josef,0,144,0,242,0,.42,0,0,11,sociolog,Fišer,99,CZ,,,27,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+69,1,Praha,3,Alena,0,144,0,167,0,.29,0,0,12,daňový poradce,Fraňková,144,CZ,,,52,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+70,539139,Černošice,3,Daniela,0,144,0,440,0,.77,0,0,13,ekonom,Göttelová,144,CZ,,,43,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+71,1,Praha,3,Josef,0,144,0,291,0,.51,0,0,14,psycholog,Dobeš,144,CZ,,,45,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+72,1,Praha,3,Marek,0,144,0,89,0,.15,0,0,15,systémový inženýr,Smejkal,99,CZ,,,25,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+73,554723,Plesná,3,Veronika,0,144,0,253,0,.44,0,0,16,regionalistka,Vrbová,99,CZ,,,22,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+74,1,Praha,3,Kateřina,0,144,0,45,0,.07,0,0,17,koordinátor HR,Štylerová,99,CZ,,,29,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+75,1,Praha,3,Markéta,0,144,0,52,0,.09,0,0,18,asistentka ředitele personální,Al-Lamiová,99,CZ,,,25,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+76,563889,Liberec,3,Anna,0,144,0,200,0,.35,0,0,19,admin-managerka,Švejdová,99,CZ,,,28,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+77,536270,Luštěnice,3,Anna,0,144,0,40,0,.07,0,0,20,personalistka,Mlynarčíková,144,CZ,,,30,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+78,563811,Smržovka,3,Kateřina,0,144,0,324,0,.57,0,0,21,zdravotní sestra,Šulcová,99,CZ,,,31,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+79,1,Praha,3,Pavel,0,144,0,72,0,.12,0,0,22,živnostník,Bouda,99,CZ,,,36,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+80,537004,Nymburk,3,Jaroslava,0,144,0,57,0,.1,0,0,23,zvukový technik,Svobodová,99,CZ,,,54,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+81,1,Praha,3,Markéta,0,144,0,72,0,.12,0,0,24,na mateřské dovolené,Ječná,99,CZ,,,31,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+82,535419,Mladá Boleslav,3,Zuzana,0,144,0,72,0,.12,0,0,25,operátor logistiky,Lipková,99,CZ,,,23,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+83,535419,Mladá Boleslav,3,Jiří,0,144,0,113,0,.19,0,0,26,automechanik,Bradáček,99,CZ,,,21,Věci veřejné,Věci veřejné,0,0,1,144,0,144,Věci veřejné,VV
+84,1,Praha,4,Jan,1,53,0,65731,8.85,8.85,2,0,1,poslanec EP,Zahradil,53,CZ,Ing.,,46,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+85,4,Ostrava,4,Evžen,1,53,0,104737,14.11,14.11,1,0,2,matematik-analytik,Tošenovský,53,CZ,Ing.,,53,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+86,569810,Hradec Králové,4,Oldřich,1,53,0,11744,0,1.58,3,0,3,poslanec EP,Vlasák,53,CZ,Ing.,,53,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+87,533165,Kolín,4,Milan,1,53,0,7143,0,.96,4,0,4,poslanec EP,Cabrnoch,53,CZ,MUDr.,,46,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+88,595209,Žďár nad Sázavou,4,Ivo,1,53,0,6071,0,.81,5,0,5,poslanec EP,Strejček,53,CZ,PaedDr.,,47,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+89,563102,Kadaň,4,Miroslav,1,53,0,9869,0,1.33,6,0,6,poslanec EP,Ouzký,53,CZ,MUDr.,,50,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+90,1,Praha,4,Edvard,1,53,0,11567,0,1.55,7,0,7,ředit. sekret. předsedy Senátu,Kožušník,53,CZ,,,38,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+91,537454,Lysá nad Labem,4,Hynek,1,53,0,16041,0,2.16,8,0,8,poslanec EP,Fajmon,53,CZ,Mgr.,,41,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+92,1,Praha,4,Andrea,1,53,0,14477,0,1.95,9,0,9,advokát a finanční poradce,Češková,53,CZ,JUDr.,,37,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+93,552046,Tábor,4,Jaroslav,0,53,0,34194,0,4.6,0,1,10,poslanec EP,Zvěřina,53,CZ,Doc. MUDr.,CSc.,66,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+94,554961,Karlovy Vary,4,Werner,0,53,0,2049,0,.27,0,2,11,primátor-Karlovy Vary,Hauptmann,53,CZ,Ing.,,41,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+95,585068,Zlín,4,Tomáš,0,53,0,4137,0,.55,0,3,12,poslanec PS PČR,Úlehla,53,CZ,Mgr.,,44,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+96,590029,Smržice,4,Aleš,0,53,0,3631,0,.48,0,4,13,vysokoškolský profesor,Lebeda,53,CZ,Prof. Ing.,DrSc.,58,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+97,1,Praha,4,Helena,0,53,0,972,0,.13,0,5,14,poslankyně PS PČR,Mallotová,53,CZ,Mgr.,,64,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+98,581186,Vysoké Mýto,4,Josef,0,53,0,7730,0,1.04,0,6,15,rektor University Hradec Král.,Hynek,53,CZ,Doc. RNDr.,"MBA, Ph.D.",43,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+99,4,Ostrava,4,Milan,0,53,0,2575,0,.34,0,7,16,poradce,Balabán,53,CZ,Ing.,,65,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+100,1,Praha,4,Karel,0,53,0,6759,0,.91,0,8,17,odborný lékař a vysokoškolský,Hurt,53,CZ,MUDr.,"MSc.,Ph.D.,DrSc",54,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+101,3,Brno,4,Miloš,0,53,0,2074,0,.27,0,9,18,radní Jihomoravského kraje,Šifalda,53,CZ,RNDr.,,45,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+102,505188,Šternberk,4,Vítězslav,0,53,0,2089,0,.28,0,10,19,"lékař,ředitel Ústavu zdravot.",Vavroušek,53,CZ,MUDr.,MBA,53,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+103,530093,Loket,4,Jaroslav,0,53,0,1162,0,.15,0,11,20,ředitel společn. České lázně,Dolina,53,CZ,,,36,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+104,555134,Pardubice,4,Alexander,0,53,0,1388,0,.18,0,12,21,vysokoškolský profesor,Chlaň,53,CZ,Ing.,Ph.D.,33,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+105,1,Praha,4,Aleš,0,53,0,222,0,.02,0,13,22,zaměstnanec státní správy,Černík,53,CZ,Ing.,,40,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+106,566314,Kryry,4,Kateřina,0,53,0,2427,0,.32,0,14,23,překladatelka a učitelka ciz.,Bartošová,53,CZ,Bc.,,33,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+107,559717,Rokycany,4,Luděk,0,53,0,930,0,.12,0,15,24,senátor PČR,Sefzig,53,CZ,MUDr.,,52,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+108,584291,Břeclav,4,Raymond,0,53,0,1455,0,.19,0,16,25,jednatel společn. a konzultant,Asuquo,53,CZ,Ing.,"Ph.D., MBA",51,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+109,563510,Jablonec nad Nisou,4,Petr,0,53,0,769,0,.1,0,17,26,jednatel společn. a podnikatel,Beitl,53,CZ,Ing.,,42,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+110,1,Praha,4,Petr,0,53,0,2161,0,.29,0,18,27,pedagog VŠ,Sokol,53,CZ,PhDr.,,34,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+111,569810,Hradec Králové,4,Jan,0,53,0,1194,0,.16,0,19,28,soukromý lékař,Michálek,53,CZ,MUDr.,,51,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+112,505927,Opava,4,Irena,0,53,0,1988,0,.26,0,20,29,ředitelka kulturní organizace,Šindlerová,53,CZ,Mgr.,,35,Občanská demokratická strana,Občanská demokratická strana,0,9,1,053,0,53,Občanská demokratická strana,ODS
+113,1,Praha,5,Jana,0,192,0,42730,0,42.51,0,0,1,"novinářka, poslankyně Evropsk.",Bobošíková,192,CZ,Ing.,,44,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+114,1,Praha,5,Silvia,0,137,0,2973,0,2.95,0,0,2,"předsedkyně ""Občanského sdruž.",Weiszová,137,CZ,,,41,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+115,4,Ostrava,5,Yvona,0,192,0,2166,0,2.15,0,0,3,ekonom-hospodářka sdruž.nájem.,Průšová,99,CZ,Ing.,,47,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+116,585068,Zlín,5,Lucie,0,137,0,997,0,.99,0,0,4,koordinátorka-multimed.produc.,Dlouhá,99,CZ,Bc.,,26,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+117,572276,Sobětuchy,5,Stanislav,0,137,0,1328,0,1.32,0,0,5,"pekař-prokurista, veřejný odp.",Pecka,99,CZ,,,59,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+118,511382,Přerov,5,Ladislav,0,137,0,413,0,.41,0,0,6,bezpečnostní technik,Orel,99,CZ,Ing.,,46,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+119,586846,Jihlava,5,Zdeněk,0,137,0,147,0,.14,0,0,7,manažer,Obhlídal,137,CZ,,,56,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+120,596884,Štěpánov nad Svratkou,5,Vlasta,0,137,0,424,0,.42,0,0,8,veterinář,Křížová,99,CZ,MVDr.,,51,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+121,567639,Krupka,5,Petr,0,137,0,172,0,.17,0,0,9,živnostník,Fišer,137,CZ,,,49,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+122,1,Praha,5,Gabriela,0,137,0,556,0,.55,0,0,10,special.-market.a zahr.vztahy,Froňková Dousková,99,CZ,Mgr.,,38,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+123,3,Brno,5,Libor,0,137,0,186,0,.18,0,0,11,podnikatel,Matouš,99,CZ,,,38,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+124,559521,Třemošná,5,Pavel,0,137,0,101,0,.1,0,0,12,podnikatel,Hlávka,99,CZ,,,50,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+125,598917,Karviná,5,Jitka,0,137,0,139,0,.13,0,0,13,účetní,Bílská,137,CZ,,,49,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+126,559067,Kožlany,5,Pavel,0,137,0,209,0,.2,0,0,14,místostarosta,Šapovalov,99,CZ,Ing.,,49,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+127,557153,Sušice,5,Petr,0,137,0,198,0,.19,0,0,15,místostarosta,Kocman,99,CZ,Ing.,,49,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+128,571164,Chrudim,5,Věra,0,137,0,171,0,.17,0,0,16,speciální pedagog,Nevečeřalová,99,CZ,Mgr.,,54,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+129,513555,Kotenčice,5,Martin,0,137,0,58,0,.05,0,0,17,podnikatel,Bartoš,99,CZ,,,40,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+130,555134,Pardubice,5,Jitka,0,137,0,115,0,.11,0,0,18,fotografka,Patřičná,137,CZ,,,40,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+131,569810,Hradec Králové,5,Alena,0,137,0,91,0,.09,0,0,19,finanční poradce,Filipová,137,CZ,,,62,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+132,573868,Náchod,5,Renata,0,137,0,56,0,.05,0,0,20,živnostník-kosmetička,Hodovalová,99,CZ,,,40,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+133,577171,Jesenný,5,Lubomír,0,137,0,36,0,.03,0,0,21,informatik,Langhammer,137,CZ,,,43,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+134,563889,Liberec,5,Simona,0,137,0,148,0,.14,0,0,22,tlumočnice a překladatelka,Močubová,99,CZ,Ing.,,35,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+135,500496,Olomouc,5,Marie,0,137,0,93,0,.09,0,0,23,terapeutka,Talašová,99,CZ,,,48,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+136,501794,Dub nad Moravou,5,Robert,0,137,0,119,0,.11,0,0,24,středoškolský učitel,Šimanský,99,CZ,Ing. Mgr.,,34,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+137,573442,Samšina,5,Miroslav,0,137,0,60,0,.05,0,0,25,předseda Klubu přát.české písn,Voda,99,CZ,,,64,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+138,540498,Kosova Hora,5,Jiří,0,137,0,66,0,.06,0,0,26,ředitel střední dbor.učiliště,Janů,99,CZ,Ing.,,54,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+139,565971,Louny,5,Bořek,0,137,0,252,0,.25,0,0,27,chirurg,Zasadil,99,CZ,MUDr.,,54,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+140,1,Praha,5,Ivan,0,137,0,23,0,.02,0,0,28,podnikatel,Číla,137,CZ,,,57,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+141,1,Praha,5,Věra,0,192,0,199,0,.19,0,0,29,právnička,Valterová,192,CZ,JUDr.,,61,Suverenita,Suverenita,0,0,2,"137,192",0,654,Suverenita,Suveren.
+142,1,Praha,6,Petr,0,98,0,4896,0,20.73,0,0,1,pětinásobný politický vězeň k.,Cibulka,98,CZ,,,58,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+143,577197,Jilemnice,6,Miloslava,0,98,0,1731,0,7.33,0,0,2,vysokoškolská učitelka angl.,Jebavá,98,CZ,PhDr.,,56,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+144,574767,Lázně Bohdaneč,6,František,0,98,0,243,0,1.02,0,0,3,"politický analytik, nezávislý",Kazilovský,98,CZ,,,52,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+145,590266,Třebíč,6,Antonín,0,98,0,127,0,.53,0,0,4,finanční poradce,Zejda,98,CZ,,,58,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+146,577197,Jilemnice,6,Eduard,0,98,0,100,0,.42,0,0,5,"autorizovaný stavitel, politic",Seibert,99,CZ,,,61,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+147,568414,Havlíčkův Brod,6,Jindřich,0,98,0,126,0,.53,0,0,6,technik,Myslivec,98,CZ,,,59,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+148,555134,Pardubice,6,Kryštof,0,98,0,126,0,.53,0,0,7,manažer,Kudláček,99,CZ,Mgr.,,25,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+149,532053,Kladno,6,Milan Miki,0,98,0,39,0,.16,0,0,8,živnostník,Pešula,99,CZ,,,49,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+150,579548,Mladé Buky,6,Petr,0,98,0,28,0,.11,0,0,9,živnostník,Lukáček,98,CZ,,,50,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+151,579025,Trutnov,6,Edita,0,98,0,83,0,.35,0,0,10,vedoucí výroby,Matysková,99,CZ,,,37,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+152,555711,Verušičky,6,Miroslav,0,98,0,43,0,.18,0,0,11,správce počítačové sítě,Roubínek,98,CZ,,,34,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+153,597180,Bruntál,6,Ivo,0,98,0,79,0,.33,0,0,12,zootechnik,Pazdera,99,CZ,,,39,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+154,599395,Ostrov,6,Miroslav,0,98,0,29,0,.12,0,0,13,živnostník,Černota,99,CZ,,,51,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+155,563129,Klášterec nad Ohří,6,Jiří,0,98,0,24,0,.1,0,0,14,technik,Andras,99,CZ,,,54,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+156,578151,Jaroměřice,6,Lubomír,0,98,0,48,0,.2,0,0,15,lesní inženýr,Tichý,99,CZ,Ing.,,61,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+157,579297,Hostinné,6,Zdeněk,0,98,0,29,0,.12,0,0,16,podnikatel,Nosek,99,CZ,,,48,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+158,555134,Pardubice,6,Tereza,0,98,0,149,0,.63,0,0,17,studentka,Šillerová,99,CZ,,,24,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+159,572179,Rosice,6,Tomáš,0,98,0,30,0,.12,0,0,18,rozpočtář,Seibert,99,CZ,,,37,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+160,576069,Rychnov nad Kněžnou,6,Petr,0,98,0,38,0,.16,0,0,19,topenář,Durchánek,99,CZ,,,54,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+161,1,Praha,6,Miroslav,0,98,0,44,0,.18,0,0,20,volný novinář,Durdil,99,CZ,,,60,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+162,599395,Ostrov,6,Petr,0,98,0,22,0,.09,0,0,21,živnostník,Plzák,99,CZ,,,47,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+163,591998,Želetava,6,Šárka,0,98,0,51,0,.21,0,0,22,živnostník,Skalická,99,CZ,,,38,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+164,574767,Lázně Bohdaneč,6,Stanislav,0,98,0,38,0,.16,0,0,23,skladník,Kopsa,99,CZ,,,57,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+165,533262,Červené Pečky,6,Josef,0,98,0,53,0,.22,0,0,24,soukromý zemědělec,Jelínek,99,CZ,,,60,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+166,541401,Broumov,6,Miroslav,0,98,0,23,0,.09,0,0,25,řidič,Chaloupka,98,CZ,,,67,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+167,599395,Ostrov,6,Jana,0,98,0,58,0,.24,0,0,26,kuchařka,Pýchová,99,CZ,,,46,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+168,557781,Chlumčany,6,Vladimír,0,98,0,25,0,.1,0,0,27,řidič,Hofman,99,CZ,,,65,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+169,532053,Kladno,6,Ivan,0,98,0,26,0,.11,0,0,28,důchodce,Lev,99,CZ,,,64,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+170,590266,Třebíč,6,Pavel,0,98,0,81,0,.34,0,0,29,elektromontér,Kašík,99,CZ,,,43,"Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",Volte Pravý Blok - www.cibulka.net,0,0,1,098,0,98,Volte Pr.Blok-www.cibulka.net,PB
+171,3,Brno,7,Miroslav,0,11,0,2362,0,31.52,0,0,1,politik,Sládek,11,CZ,PhDr.,,58,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+172,568414,Havlíčkův Brod,7,Josef,0,11,0,260,0,3.47,0,0,2,technickohospodářský pracovník,Valenta,11,CZ,,,58,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+173,1,Praha,7,Zdeněk,0,11,0,73,0,.97,0,0,3,podnikatel,Krampera,11,CZ,,,57,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+174,564028,Frýdlant,7,Jaroslav,0,11,0,38,0,.5,0,0,4,podnikatel,Kopecký,11,CZ,,,52,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+175,531057,Beroun,7,Dušan,0,11,0,44,0,.58,0,0,5,podnikatel,Kučera,11,CZ,,,47,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+176,500496,Olomouc,7,Jiří,0,11,0,78,0,1.04,0,0,6,technik,Dufek,11,CZ,,,57,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+177,570826,Kosmonosy,7,Ljulin,0,11,0,38,0,.5,0,0,7,podnikatel,Christov,11,CZ,,,67,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+178,574279,Nové Město nad Metují,7,Věra,0,11,0,42,0,.56,0,0,8,podnikatelka,Jarkovská,11,CZ,,,58,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+179,585289,Hvozdná,7,Michal,0,11,0,79,0,1.05,0,0,9,živnostník,Sekyra,11,CZ,,,38,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+180,539911,Příbram,7,Jaroslav,0,11,0,36,0,.48,0,0,10,karosář,Dupák,11,CZ,,,53,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+181,584002,Tišnov,7,Miroslav,0,11,0,46,0,.61,0,0,11,živnostník,Mrkvička,11,CZ,,,59,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+182,500496,Olomouc,7,Jiří,0,11,0,29,0,.38,0,0,12,technik,Skovajsa,11,CZ,,,49,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+183,574562,Velká Jesenice,7,Zdeněk,0,11,0,60,0,.8,0,0,13,stavbyvedoucí,Stolin,11,CZ,Ing.,,30,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+184,549240,Písek,7,Roman,0,11,0,46,0,.61,0,0,14,ředitel,Kratochvíl,11,CZ,,,44,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+185,569810,Hradec Králové,7,Ivan,0,11,0,22,0,.29,0,0,15,mechanik NC strojů,Kubec,11,CZ,,,61,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+186,1,Praha,7,Petr,0,11,0,16,0,.21,0,0,16,důchodce,Dítko,11,CZ,,,72,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+187,535419,Mladá Boleslav,7,Marie,0,11,0,61,0,.81,0,0,17,drážní obsluha,Pozděnová,11,CZ,,,54,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+188,564249,Chrást,7,Miloslav,0,11,0,11,0,.14,0,0,18,tesař,Chudáček,11,CZ,,,61,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+189,563510,Jablonec nad Nisou,7,Jaroslav,0,11,0,8,0,.1,0,0,19,malíř,Louda,11,CZ,,,55,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+190,,,7,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,20,,Kandidát v registraci škrtnut,,,,,,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+191,,,7,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,21,,Kandidát v registraci škrtnut,,,,,,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+192,557846,Chválenice,7,Pavel,0,11,0,10,0,.13,0,0,22,hygienický pracovník,Konjata,11,CZ,,,37,Sdružení pro republiku-Republikánská strana Československa,Sdružení pro republiku-Republikán.strana Českosl.,0,0,1,011,0,11,Sdruž.pro rep.-Republ.str.Čsl.,SPR-RSČ
+193,1,Praha,8,Ivan,0,175,0,341,0,10.43,0,0,1,lékař,Šterzl,99,CZ,Prof. MUDr.,CSc.,55,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+194,552046,Tábor,8,Vilém,0,175,0,131,0,4,0,0,2,odborný pracovník NASA,Mikula,99,CZ,Mgr.,,45,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+195,1,Praha,8,Bohdan,0,175,0,165,0,5.04,0,0,3,chirurg,Babinec,175,CZ,MUDr.,CSc.,65,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+196,598267,Modletice,8,Rudolf,0,175,0,31,0,.94,0,0,4,odborný pedagog,Klinger,99,CZ,Mgr.,,58,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+197,545571,Křemže,8,František,0,175,0,48,0,1.46,0,0,5,etnograf,Krejča,175,CZ,PhDr.,,55,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+198,3,Brno,8,Tomáš,0,175,0,93,0,2.84,0,0,6,zahradní architekt,Foral,175,CZ,Ing.,,43,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+199,,,8,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,7,,Kandidát v registraci škrtnut,,,,,,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+200,544256,České Budějovice,8,Zbyněk,0,175,0,85,0,2.6,0,0,8,odborný pedagog,Holub,175,CZ,PhDr.,Ph.D.,52,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+201,1,Praha,8,Jiří,0,175,0,23,0,.7,0,0,9,knihkupec,Pondělíček,175,CZ,,,44,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+202,1,Praha,8,Jessica,0,175,0,49,0,1.49,0,0,10,režisér,Horváthová,175,CZ,Mgr.,,62,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+203,1,Praha,8,Přemysl,0,175,0,20,0,.61,0,0,11,manažer,Votava,175,CZ,,,65,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+204,594482,Moravský Krumlov,8,Vladimír,0,175,0,32,0,.97,0,0,12,středoškolský učitel,Válek,175,CZ,Ing.,Ph.D.,51,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+205,1,Praha,8,Lenka,0,175,0,49,0,1.49,0,0,13,presidentka Českého svazu podn,Dobrovolná,99,CZ,Ing.,,29,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+206,558362,Spálené Poříčí,8,Lenka,0,175,0,62,0,1.89,0,0,14,chemik,Přibylová,99,CZ,Ing.,Ph.D.,29,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+207,3,Brno,8,Stanislav,0,175,0,30,0,.91,0,0,15,biochemik,Palša,175,CZ,RNDr. Mgr.,,40,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+208,563889,Liberec,8,Vladimír,0,175,0,33,0,1,0,0,16,vysokoškolský pedagog,Kracík,175,CZ,Doc. Ing.,CSc.,79,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+209,584291,Břeclav,8,Romana,0,175,0,29,0,.88,0,0,17,studentka,Němcová,99,CZ,,,24,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+210,1,Praha,8,Jan,0,175,0,9,0,.27,0,0,18,konstruktér,Kukačka,28,CZ,,,65,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+211,583791,Rozdrojovice,8,Darja,0,175,0,12,0,.36,0,0,19,pracovnice cestovní kanceláře,Opatová,99,CZ,Mgr.,,47,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+212,576964,Semily,8,Zdeněk,0,175,0,18,0,.55,0,0,20,učitel hudby,Novotný,175,CZ,,,53,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+213,544256,České Budějovice,8,Ivan,0,175,0,18,0,.55,0,0,21,technik,Fabián,175,CZ,,,51,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+214,558362,Spálené Poříčí,8,Pavel,0,175,0,43,0,1.31,0,0,22,podnikatel,Kraft,175,CZ,,,38,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+215,2,Plzeň,8,Vladimír,0,175,0,18,0,.55,0,0,23,dělník,Hanzlíček,175,CZ,,,51,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+216,1,Praha,8,Ludmila,0,175,0,8,0,.24,0,0,24,úřednice,Švecová,175,CZ,,,48,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+217,4,Ostrava,8,Miroslav,0,175,0,12,0,.36,0,0,25,redaktor,Kracík,175,CZ,,,84,Česká strana národně socialistická,Česká strana národně socialistická,0,0,1,175,0,175,Česká str.národ.socialistická,ČSNS2005
+218,1,Praha,9,Jana,0,709,0,15653,0,22.96,0,0,1,poslankyně Evropského parlam.,Hybášková,709,CZ,PhDr.,,43,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+219,1,Praha,9,Jiří,0,709,0,7876,0,11.55,0,0,2,poradce pro otázky národ.bezp.,Šedivý,99,CZ,,armádní generál,56,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+220,1,Praha,9,Věra,0,709,0,3429,0,5.03,0,0,3,konzultantka pro fondy EU,Jourová,99,CZ,Mgr.,,44,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+221,1,Praha,9,Ivan,0,709,0,9852,0,14.45,0,0,4,profesor University Karlovy,Wilhelm,99,CZ,Prof.,,67,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+222,1,Praha,9,Jana,0,709,0,1331,0,1.95,0,0,5,děkanka vysoké školy,Ryšlinková,99,CZ,RNDr.,,58,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+223,1,Praha,9,Eduard,0,709,0,622,0,.91,0,0,6,úředník Evropského parlamentu,Hulicius,709,CZ,Mgr.,,28,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+224,1,Praha,9,Václav,0,709,0,128,0,.18,0,0,7,daňový poradce,Šrámek,709,CZ,RNDr.,,58,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+225,505927,Opava,9,Eva,0,709,0,271,0,.39,0,0,8,učitelka,Petrášová,99,CZ,PaedDr.,,45,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+226,569810,Hradec Králové,9,Jaroslav,0,709,0,139,0,.2,0,0,9,advokát,Čapek,99,CZ,Mgr.,,60,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+227,586846,Jihlava,9,Milan,0,709,0,215,0,.31,0,0,10,učitel,Kolář,99,CZ,Ing.,,55,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+228,505927,Opava,9,Ivana,0,709,0,188,0,.27,0,0,11,učitelka,Kleinová,99,CZ,PaedDr.,,48,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+229,4,Ostrava,9,Vítězslav,0,709,0,82,0,.12,0,0,12,servisní technik,Bednařík,99,CZ,,,47,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+230,505927,Opava,9,Alena,0,709,0,90,0,.13,0,0,13,učitelka,Zupková,99,CZ,PaedDr.,,48,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+231,558672,Blatnice,9,Petr,0,709,0,85,0,.12,0,0,14,úředník,Holý,99,CZ,Ing.,,33,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+232,563889,Liberec,9,Dagmar,0,709,0,195,0,.28,0,0,15,manažerka krajské knihovny,Helšusová,99,CZ,,,58,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+233,1,Praha,9,Eva,0,709,0,44,0,.06,0,0,16,knihovnice,Holečková,99,CZ,,,51,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+234,1,Praha,9,Lukáš,0,709,0,138,0,.2,0,0,17,politolog,Pachta,99,CZ,,MA,27,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+235,539171,Dobrovíz,9,Marie,0,709,0,95,0,.13,0,0,18,studentka vysoké školy,Krejčová,99,CZ,Bc.,,27,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+236,1,Praha,9,Martin,0,709,0,56,0,.08,0,0,19,invalidní důchodce,Hybášek,99,CZ,,,51,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+237,1,Praha,9,Daniela,0,709,0,37,0,.05,0,0,20,překladatelka,Büchlerová,99,CZ,Mgr.,,31,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+238,1,Praha,9,Tereza,0,709,0,50,0,.07,0,0,21,průvodkyně,Krejčí,99,CZ,,,26,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+239,1,Praha,9,Lenka,0,709,0,50,0,.07,0,0,22,administrativní pracovnice,Holečková,99,CZ,Bc.,,26,Evropská demokratická strana,Evropská demokratická strana,0,0,1,709,0,709,Evropská demokratická strana,EDS
+240,539571,Průhonice,10,Petr,0,29,0,140,0,9.83,0,0,1,ekonom,Plaček,29,CZ,Ing.,,48,Strana svobodných demokratů,Strana svobodných demokratů,0,0,1,029,0,29,Strana svobodných demokratů,SSD
+241,1,Praha,11,Daniel,0,715,0,442,0,2.99,0,0,1,"politolog, zastupitel Městské",Solis,715,CZ,,,41,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+242,533955,Kutná Hora,11,Olga,0,715,0,4502,0,30.49,0,0,2,poslankyně PS PČR,Zubová,715,CZ,PhDr.,,49,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+243,4,Ostrava,11,Vladislav,0,715,0,325,0,2.2,0,0,3,učitel,Koval,715,CZ,Mgr.,,43,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+244,579025,Trutnov,11,Luďka,0,715,0,240,0,1.62,0,0,4,podnikatelka v polygrafickém p,Tomešová,715,CZ,,,40,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+245,532053,Kladno,11,Jiří,0,715,0,138,0,.93,0,0,5,ekonom,Šteg,715,CZ,Ing.,,53,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+246,598003,Frýdek-Místek,11,Jan,0,715,0,2331,0,15.79,0,0,6,sociolog,Keller,99,CZ,Prof. PhDr.,,54,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+247,563684,Loužnice,11,Jan,0,715,0,121,0,.81,0,0,7,"ministerský rada, Ministerstvo",Vondrouš,715,CZ,,,31,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+248,598933,Český Těšín,11,Eva,0,715,0,174,0,1.17,0,0,8,obchodní ředitelka,Holubová,99,CZ,RNDr.,,53,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+249,1,Praha,11,Jaromír,0,715,0,72,0,.48,0,0,9,manažer reklamní společnosti,Soukup,715,CZ,,,40,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+250,598135,Fryčovice,11,Karel,0,715,0,58,0,.39,0,0,10,správce budov,Volný,715,CZ,,,51,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+251,1,Praha,11,Marie,0,715,0,141,0,.95,0,0,11,koordinátorka fondů EU,Haisová,99,CZ,,MBA,58,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+252,1,Praha,11,Jana,0,715,0,145,0,.98,0,0,12,publicistka,Ridvanová,99,CZ,,,27,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+253,560367,Horní Slavkov,11,Jan,0,715,0,74,0,.5,0,0,13,podnikatel,Studnička,99,CZ,,,39,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+254,1,Praha,11,Daniel,0,715,0,86,0,.58,0,0,14,herec,Sidon,99,CZ,,,22,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+255,1,Praha,11,Iveta,0,715,0,137,0,.92,0,0,15,porodní asistentka,Hrušková,99,CZ,,,41,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+256,598691,Hukvaldy,11,Ivo,0,715,0,38,0,.25,0,0,16,asistent zásobování,Dienelt,99,CZ,Ing.,,27,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+257,598917,Karviná,11,Peter,0,715,0,49,0,.33,0,0,17,právník,Halák,715,CZ,JUDr.,,58,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+258,563889,Liberec,11,Detlef,0,715,0,86,0,.58,0,0,18,výtvarník,Pötsch,99,CZ,,,37,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+259,580147,Libchavy,11,Václav,0,715,0,33,0,.22,0,0,19,obchodní zástupce,Novotný,99,CZ,,,25,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+260,572241,Skuteč,11,Ladislav,0,715,0,30,0,.2,0,0,20,sbormistr,Jánek,99,CZ,,,47,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+261,1,Praha,11,Tomáš,0,715,0,28,0,.18,0,0,21,techno-promotér,Votruba,99,CZ,,,39,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+262,599271,Zlukov,11,Libuše,0,715,0,71,0,.48,0,0,22,publicistka,Bryndová,99,CZ,,,53,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+263,551970,Volyně,11,Marie,0,715,0,29,0,.19,0,0,23,ředitelka genderove o.p.s.,Lienauová,99,CZ,,,61,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+264,1,Praha,11,Jaroslava,0,715,0,21,0,.14,0,0,24,terapeutka,Richterová,715,CZ,Mgr.,,63,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+265,554855,Trstěnice,11,Arnold,0,715,0,41,0,.27,0,0,25,umělecký řezbář,Nowak,99,CZ,,,54,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+266,598691,Hukvaldy,11,Magda,0,715,0,24,0,.16,0,0,26,nehtová designérka,Kubošová,99,CZ,,,49,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+267,1,Praha,11,Otto,0,715,0,7,0,.04,0,0,27,asistent režie,Reguette,99,CZ,,,36,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+268,554961,Karlovy Vary,11,Josef,0,715,0,39,0,.26,0,0,28,odpadový hospodář,Cais,99,CZ,,,53,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+269,576069,Rychnov nad Kněžnou,11,Miroslav,0,715,0,29,0,.19,0,0,29,podnikatel,Pavlíček,99,CZ,Ing.,,33,Demokratická Strana Zelených,Demokratická Strana Zelených,0,0,1,715,0,715,Demokratická Strana Zelených,DSZ
+270,563552,Desná,12,Zdeněk,0,2,0,80,0,10.11,0,0,1,sociolog a ekolog,Joukl,99,CZ,Ing.,,68,Česká strana národně sociální,Česká strana národně sociální,0,0,1,002,0,2,Česká strana národně sociální,ČSNS
+271,1,Praha,13,Petra,0,152,0,929,0,14.83,0,0,1,předsedkyně NS a politoložka,Edelmannová,152,CZ,Mgr.,Ph.D.,34,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+272,534951,Kralupy nad Vltavou,13,Daniel,0,152,0,184,0,2.93,0,0,2,ředitel zahr. odboru NS,Petrášek,152,CZ,Mgr.,,42,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+273,573868,Náchod,13,Radoslav,0,152,0,93,0,1.48,0,0,3,místopředseda NS a pedagog,Laš,152,CZ,Mgr.,,39,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+274,535419,Mladá Boleslav,13,Jiří,0,152,0,104,0,1.66,0,0,4,předseda Rozhodčí rady NS,Gaudin,152,CZ,Bc.,,26,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+275,1,Praha,13,Jan,0,152,0,84,0,1.34,0,0,5,1.místopředseda NS a právník,Skácel,152,CZ,Mgr.,,74,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+276,551562,Osek,13,Lukáš,0,152,0,54,0,.86,0,0,6,stavbyvedoucí,Opatrný,152,CZ,Ing.,,30,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+277,4,Ostrava,13,Mojmír,0,152,0,90,0,1.43,0,0,7,lékař,Skotnica,152,CZ,MUDr.,,63,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+278,573965,Červený Kostelec,13,Miroslav,0,152,0,55,0,.87,0,0,8,IT specialista,Knapovský,152,CZ,Ing.,,37,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+279,,,13,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,9,,Kandidát v registraci škrtnut,,,,,,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+280,4,Ostrava,13,Tomáš,0,152,0,55,0,.87,0,0,10,matematik-analytik,Perna,152,CZ,Ing.,,56,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+281,4,Ostrava,13,Taťána,0,152,0,44,0,.7,0,0,11,lékařka,Frýblová,99,CZ,MUDr.,CSc.,65,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+282,,,13,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,12,,Kandidát v registraci škrtnut,,,,,,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+283,4,Ostrava,13,Václav,0,152,0,63,0,1,0,0,13,pedagog,Komárek,152,CZ,Mgr.,,65,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+284,4,Ostrava,13,Lucie,0,152,0,75,0,1.19,0,0,14,procesní analytik,Pekárková,99,CZ,Ing. Bc.,,33,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+285,1,Praha,13,Pavel,0,152,0,22,0,.35,0,0,15,publicista,Malý,99,CZ,PhDr.,,64,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+286,569810,Hradec Králové,13,Patrick,0,152,0,50,0,.79,0,0,16,pedagog,Ungermann,99,CZ,Mgr.,,35,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+287,554642,Mariánské Lázně,13,Michal,0,152,0,93,0,1.48,0,0,17,Zemský velitel Národní gardy,Kubík,152,CZ,,,25,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+288,597911,Třemešná,13,Jindřich,0,152,0,27,0,.43,0,0,18,starosta obce,Galda,152,CZ,,,56,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+289,,,13,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,19,,Kandidát v registraci škrtnut,,,,,,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+290,553735,Chodov,13,Ladislav,0,152,0,23,0,.36,0,0,20,ředitel rádia Vlast a public.,Paštéka,152,CZ,,,36,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+291,544485,Hluboká nad Vltavou,13,Marcel,0,152,0,17,0,.27,0,0,21,student VŠ,Ambrož,152,CZ,,,23,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+292,570109,Chlumec nad Cidlinou,13,Martina,0,152,0,17,0,.27,0,0,22,místopředsedkyně Mládeže NS,Pištorová,152,CZ,,,24,Národní strana,Národní strana,0,0,1,152,0,152,Národní strana,NS
+293,514705,Lipník nad Bečvou,14,Stanislav,0,155,0,4906,0,28.75,0,0,1,konzultant Evropského parlamen,Jaš,99,CZ,Ing.,,32,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+294,1,Praha,14,Jana,0,155,0,783,0,4.58,0,0,2,předsedkyně SDŽ,Volfová,155,CZ,Mgr.,,51,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+295,1,Praha,14,Miroslav,0,155,0,194,0,1.13,0,0,3,právník,Jindrák,155,CZ,JUDr.,,58,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+296,565245,Malé Žernoseky,14,Zdeněk,0,155,0,120,0,.7,0,0,4,chemik,Vybíral,99,CZ,Ing.,,70,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+297,544256,České Budějovice,14,Marie,0,155,0,268,0,1.57,0,0,5,sociální pracovnice,Paukejová,155,CZ,Ing.,,54,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+298,505650,Velký Týnec,14,Jan,0,155,0,638,0,3.73,0,0,6,právník,Rytíř,155,CZ,JUDr.,,40,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+299,537292,Kněžice,14,František,0,155,0,290,0,1.69,0,0,7,předseda zemědělského družstva,Halásek,155,CZ,Ing.,,64,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+300,1,Praha,14,Tomáš,0,155,0,107,0,.62,0,0,8,zastupitel,Fanta,155,CZ,,,36,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+301,564117,Chrastava,14,Oldřich,0,155,0,109,0,.63,0,0,9,vedoucí odboru MPSV,Němec,99,CZ,Mgr.,,53,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+302,569810,Hradec Králové,14,Jiří,0,155,0,319,0,1.86,0,0,10,ředitel centra pro zdravotně p,Morávek,99,CZ,Mgr.,,51,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+303,544256,České Budějovice,14,Iveta,0,155,0,275,0,1.61,0,0,11,podnikatelka v oblasti zeměděl,Vilímková,155,CZ,Ing.,,40,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+304,579891,Ústí nad Orlicí,14,Wesselin,0,155,0,150,0,.87,0,0,12,lékař,Toppisch,99,CZ,MUDr.,,65,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+305,551953,Vodňany,14,Václav,0,155,0,110,0,.64,0,0,13,starosta obce Vodňany,Heřman,155,CZ,,,61,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+306,595101,Vranovská Ves,14,Vladimír,0,155,0,44,0,.25,0,0,14,technik,Najda,155,CZ,Ing.,,42,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+307,598917,Karviná,14,Daniel,0,155,0,70,0,.41,0,0,15,zaměstnanec bezpečnostní agent,Lapiš,155,CZ,,,27,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+308,554961,Karlovy Vary,14,Pavel,0,155,0,49,0,.28,0,0,16,podnikatel,Wolf,155,CZ,,,48,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+309,533165,Kolín,14,Zdeněk,0,155,0,32,0,.18,0,0,17,podnikatel,Kučera,155,CZ,,,57,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+310,500496,Olomouc,14,Petr,0,155,0,119,0,.69,0,0,18,právník,Holánek,99,CZ,JUDr.,,47,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+311,1,Praha,14,Martina,0,155,0,85,0,.49,0,0,19,odborná referentka legislat,Vítková,155,CZ,,,34,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+312,555134,Pardubice,14,Ota,0,155,0,61,0,.35,0,0,20,pedagog trenér,Stejskal,99,CZ,Mgr.,,44,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+313,593711,Znojmo,14,Jiří,0,155,0,46,0,.26,0,0,21,odborný referent,Sedlák,155,CZ,,,63,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+314,563889,Liberec,14,Marie,0,155,0,129,0,.75,0,0,22,technická pracovnice na VŠ,Štěpánková,99,CZ,Ing.,,29,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+315,569810,Hradec Králové,14,Jiří,0,155,0,33,0,.19,0,0,23,technik,Vejběra,155,CZ,Ing.,,51,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+316,588458,Holešov,14,Petr,0,155,0,37,0,.21,0,0,24,právník,Hála,155,CZ,JUDr.,,61,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+317,544256,České Budějovice,14,Roman,0,155,0,20,0,.11,0,0,25,dispečer,Bureš,155,CZ,Ing.,,47,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+318,554804,Ústí nad Labem,14,Vladimír,0,155,0,35,0,.2,0,0,26,podnikatel,Kozubek,155,CZ,Ing.,,53,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+319,553824,Kout na Šumavě,14,Ivo,0,155,0,28,0,.16,0,0,27,obchodní zástupce,Hanusek,155,CZ,Ing.,,42,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+320,531189,Hořovice,14,Václav Pavel,0,155,0,46,0,.26,0,0,28,podnikatel,Bakule,155,CZ,,,65,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+321,1,Praha,14,David,0,155,0,41,0,.24,0,0,29,učitel,Štěpán,155,CZ,,,45,SDŽ - Strana důstojného života,SDŽ - Strana důstojného života,0,0,1,155,0,155,SDŽ-Strana důstojného života,SDŽ
+322,1,Praha,15,Jan,0,100,0,654,0,14.26,0,0,1,IT konzultant,Tamáš,100,CZ,Ing.,Ph.D.,32,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+323,544256,České Budějovice,15,Lenka,0,100,0,209,0,4.55,0,0,2,koordinátorka neziskové organ.,Rosková,100,CZ,Mgr.,,40,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+324,3,Brno,15,Otakar Jiří,0,100,0,152,0,3.31,0,0,3,vysokoškolský pedagog,Mika,99,CZ,Ing.,CSc.,56,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+325,1,Praha,15,Jan,0,100,0,182,0,3.97,0,0,4,grafik,Bednář,100,CZ,,,30,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+326,544256,České Budějovice,15,Dagmar,0,100,0,138,0,3.01,0,0,5,molekulární bioložka,Bystřická,100,CZ,Mgr.,Ph.D.,32,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+327,1,Praha,15,Jan,0,100,0,58,0,1.26,0,0,6,vysokoškolský pedagog,Burian,99,CZ,Ing.,,35,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+328,1,Praha,15,Ivona,0,100,0,79,0,1.72,0,0,7,studentka politologie,Novomestská,100,CZ,,,26,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+329,3,Brno,15,Ivan,0,100,0,86,0,1.87,0,0,8,vysokoškolský pedagog,Němec,99,CZ,Doc. Ing.,CSc.,63,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+330,544256,České Budějovice,15,Jana,0,100,0,38,0,.82,0,0,9,učitelka,Kunšteková Maříková,99,CZ,PhDr.,,48,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+331,1,Praha,15,Markéta,0,100,0,50,0,1.09,0,0,10,sociální ekoložka,Curatolo Jůnová,100,CZ,Mgr.,,29,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+332,545571,Křemže,15,Jana,0,100,0,34,0,.74,0,0,11,finanční kozultantka,Šimonová,100,CZ,Ing.,,29,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+333,531057,Beroun,15,Martin,0,100,0,20,0,.43,0,0,12,programátor,Mevald,100,CZ,,,31,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+334,545392,Český Krumlov,15,Jana,0,100,0,48,0,1.04,0,0,13,"učitelka, výtvarnice",Pešková,99,CZ,Mgr.,,61,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+335,1,Praha,15,Michaela,0,100,1,0,0,0,0,0,14,studentka politologie a sociol,Švarcová,100,CZ,,,22,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+336,3,Brno,15,Jan,0,100,0,5,0,.1,0,0,15,živnostník,Pelan,99,CZ,,,41,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+337,3,Brno,15,Ilona,0,100,0,21,0,.45,0,0,16,PR manager,Musilová,99,CZ,Bc.,,44,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+338,1,Praha,15,Petra,0,100,0,41,0,.89,0,0,17,koordinátorka neziskové org.,Šindelářová,100,CZ,,,29,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+339,599727,Karlík,15,Martin,0,100,0,26,0,.56,0,0,18,nezaměstnaný,Hrušínský,100,CZ,,,24,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+340,1,Praha,15,Radek,0,100,0,4,0,.08,0,0,19,systémový administrátor,Langer,100,CZ,,,31,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+341,567027,Most,15,Jaromír,0,100,0,37,0,.8,0,0,20,student DAMU a FF ZČU,Vavroch,99,CZ,,,24,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+342,510297,Služovice,15,Zuzana,0,100,0,15,0,.32,0,0,21,analytička,Hájková,100,CZ,Mgr.,,26,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+343,1,Praha,15,Petr,0,100,0,7,0,.15,0,0,22,konstruktér,Švec,100,CZ,,,31,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+344,530883,Vlašim,15,Klára,0,100,0,49,0,1.06,0,0,23,studentka medicíny,Horálková,100,CZ,,,21,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+345,533637,Radovesnice I,15,Jan,0,100,1,0,0,0,0,0,24,student mezinárodních vztahů,Pospíšil,100,CZ,,,22,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+346,562301,Dolní Novosedly,15,Jiří,0,100,0,15,0,.32,0,0,25,podnikatel,Jareš,100,CZ,,,27,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+347,539627,Roztoky,15,Eva,0,100,0,5,0,.1,0,0,26,operátorka,Krumbholcová,100,CZ,,,51,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+348,535419,Mladá Boleslav,15,Michal,0,100,0,12,0,.26,0,0,27,student mechatroniky,Bartoň,99,CZ,,,21,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+349,1,Praha,15,Hynek,0,100,0,19,0,.41,0,0,28,student práv,Opolecký,100,CZ,,,23,Humanistická strana,Humanistická strana,0,0,1,100,0,100,Humanistická strana,HS
+350,592901,Bohdalice-Pavlovice,16,Jiří,0,83,0,588,0,6.47,0,0,1,"podnikatel, projektový manažer",Novotný,83,CZ,,,31,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+351,3,Brno,16,Joseph,0,83,0,469,0,5.16,0,0,2,profesor Tokijské university,Rostinský,99,CZ,prof. Dr.,Ph.D.,63,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+352,500496,Olomouc,16,Alena,0,83,0,366,0,4.02,0,0,3,spisovatelka,Ovčačíková,83,CZ,PhDr.,,53,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+353,584762,Pasohlávky,16,Tomáš,0,83,0,343,0,3.77,0,0,4,starosta obce Pasohlávky,Ingr,83,CZ,Ing.,,30,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+354,546127,Dačice,16,Bohumil,0,83,0,210,0,2.31,0,0,5,učitel,Šuhaj,83,CZ,Mgr.,,28,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+355,541630,Vsetín,16,Libor,0,83,0,137,0,1.5,0,0,6,podnikatel,Zrůbek,83,CZ,,,42,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+356,542750,Hošťálková,16,Mojmír,0,83,0,114,0,1.25,0,0,7,"genetik, mluvčí Fóra evangel.",Kovář,99,CZ,Ing.,,70,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+357,3,Brno,16,Zdeněk,0,83,0,102,0,1.12,0,0,8,projektant,Zbožínek,83,CZ,Ing.,,59,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+358,547794,Hodonín,16,František,0,83,0,114,0,1.25,0,0,9,podnikatel,Novotný,83,CZ,,,55,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+359,589250,Prostějov,16,Antonín,0,83,0,114,0,1.25,0,0,10,"emeritní ředitel ZŠ, předseda",Dušek,83,CZ,Mgr.,,67,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+360,544841,Rožnov pod Radhoštěm,16,Jiří,0,83,0,150,0,1.65,0,0,11,stavební inženýr,Blechta,83,CZ,Ing.,,57,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+361,3,Brno,16,Jiří,0,83,0,75,0,.82,0,0,12,krajský ředitel VZP,Kořínek,83,CZ,,,51,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+362,558079,Mohelnice,16,Jan,0,83,0,50,0,.55,0,0,13,podnikatel,Smital,83,CZ,,,57,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+363,3,Brno,16,Bohumír,0,83,0,71,0,.78,0,0,14,stavbyvedoucí,Gruber,83,CZ,,,45,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+364,541354,Zábřeh,16,Karel,0,83,0,79,0,.86,0,0,15,podnikatel,Kolomazník,83,CZ,Ing.,,58,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+365,3,Brno,16,Robert,0,83,0,178,0,1.95,0,0,16,historik,Keprt,83,CZ,Mgr.,,41,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+366,500496,Olomouc,16,Tomáš,0,83,0,106,0,1.16,0,0,17,podnikatel,Říha,83,CZ,,,37,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+367,592943,Bučovice,16,Aleš,0,83,0,54,0,.59,0,0,18,elektrotechnik,Sekanina,83,CZ,,,45,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+368,530964,Bludov,16,Tomáš,0,83,0,32,0,.35,0,0,19,učitel,Skoumal,83,CZ,Mgr.,,36,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+369,585068,Zlín,16,Jaroslav,0,83,0,49,0,.53,0,0,20,technik,Gál,83,CZ,,,32,Moravané,Moravané,0,0,1,083,0,83,Moravané,M
+370,3,Brno,17,Jakub,0,143,1,0,0,0,0,0,1,investiční poradce,Zvoníček,143,CZ,,,26,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+371,1,Praha,17,Michaela,0,143,1,0,0,0,0,0,2,projektová manažerka,Výtisková,99,CZ,,,24,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+372,1,Praha,17,Doubravka,0,143,1,0,0,0,0,0,3,projektová manažerka,Sobková,99,CZ,,,24,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+373,1,Praha,17,Jan,0,143,1,0,0,0,0,0,4,technický konzultant,Stibor,99,CZ,Ing.,,27,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+374,554804,Ústí nad Labem,17,Miroslav,0,143,1,0,0,0,0,0,5,podnikatel,Richter,99,CZ,,,25,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+375,544256,České Budějovice,17,Martin,0,143,1,0,0,0,0,0,6,finanční manažer,Řehák,99,CZ,,,24,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+376,1,Praha,17,Lukáš,0,143,1,0,0,0,0,0,7,vedoucí poradenské kanceláře,Kačmařík,99,CZ,,,24,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+377,538574,Odolena Voda,17,Martin,0,143,1,0,0,0,0,0,8,podnikatel,Muzikář,168,CZ,,,38,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+378,538574,Odolena Voda,17,Michal,0,143,1,0,0,0,0,0,9,správce bytových domů,Vítů,99,CZ,,,35,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+379,1,Praha,17,Ondřej,0,143,1,0,0,0,0,0,10,organizační manažer,Rejzek,99,CZ,,,29,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+380,1,Praha,17,Jakub Filip,0,143,1,0,0,0,0,0,11,architekt,Novák,99,CZ,,,29,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+381,534129,Kácov,17,Jan,0,143,1,0,0,0,0,0,12,specialista PR a marketingu,Kopecký,99,CZ,,,28,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+382,546780,Býčkovice,17,Magdalena,0,143,1,0,0,0,0,0,13,projektová manažerka,Chlupáčová,99,CZ,,,26,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+383,1,Praha,17,Lucie,0,143,1,0,0,0,0,0,14,předsedkyně představenstva akc,Krejčová,99,CZ,,,29,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+384,1,Praha,17,Ilona,0,143,1,0,0,0,0,0,15,úřednice,Drlíková,99,CZ,,,55,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+385,1,Praha,17,Jiří,0,143,1,0,0,0,0,0,16,úředník,Štěpánek,99,CZ,,,55,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+386,1,Praha,17,Milada,0,143,1,0,0,0,0,0,17,úřednice,Ševčíková,99,CZ,,,56,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+387,1,Praha,17,Eva,0,143,1,0,0,0,0,0,18,úřednice,Štěpánková,99,CZ,,,48,Spojení demokraté - Sdružení nezávislých,Spojení demokraté - Sdružení nezávislých,0,0,1,143,0,143,Spojení demokraté-Sdruž.nezáv.,SD-SN
+388,3,Brno,18,Milan,0,138,0,132,0,7.43,0,0,1,ředitel neziskové organizace,Hamerský,138,CZ,Mgr.,,36,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+389,3,Brno,18,Martina,0,138,1,0,0,0,0,0,2,"právnička, specialistka na evr",Nováková,99,CZ,Mgr.,,30,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+390,1,Praha,18,Linh,0,138,0,113,0,6.36,0,0,3,student mezinárodních vztahů,Nguyen,99,CZ,,,22,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+391,1,Praha,18,Róbert,0,138,0,16,0,.9,0,0,4,student,Furiel,99,SK,,,23,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+392,579025,Trutnov,18,Pavel,0,138,0,38,0,2.14,0,0,5,výrobní manažer,Černý,99,CZ,,,24,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+393,999996,Bad Berka,18,Eugenie,0,138,0,28,0,1.57,0,0,6,VŠ docentka v SRN,Trützschlerová,99,CZ,Dr.,,58,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+394,1,Praha,18,Peter,0,138,0,13,0,.73,0,0,7,projektový manažer,Sládeček,99,SK,Mgr.,,27,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+395,590266,Třebíč,18,Rostislav,0,138,0,59,0,3.32,0,0,8,vědec,Štork,99,CZ,RNDr.,Ph.D.,39,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+396,,,18,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,9,,Kandidát v registraci škrtnut,,,,,,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+397,556254,Horažďovice,18,Jindřiška,0,138,0,61,0,3.43,0,0,10,praktická lékařka,Procházková,99,CZ,MUDr.,,49,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+398,572179,Rosice,18,Klára,0,138,0,15,0,.84,0,0,11,technička,Prokešová,99,CZ,,,25,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+399,538485,Mirošovice,18,Derek,0,138,0,27,0,1.52,0,0,12,vysokoškolský učitel,Pilous,138,CZ,Mgr.,,34,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+400,555134,Pardubice,18,Franz,0,138,0,16,0,.9,0,0,13,důchodce,Chocholatý Gröger,99,CZ,Bc.,,65,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+401,3,Brno,18,Petr,0,138,0,20,0,1.12,0,0,14,pracovník ve vědě a výzkumu,Zamečník,99,CZ,,,26,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+402,584207,Zastávka,18,Klára,0,138,0,25,0,1.4,0,0,15,studentka ekonomie,Svobodová,99,CZ,Bc.,,25,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+403,537705,Poříčany,18,Lukáš,0,138,0,13,0,.73,0,0,16,ekonom,Kalenský,138,CZ,Ing.,,30,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+404,3,Brno,18,Roman,0,138,0,23,0,1.29,0,0,17,IT konzultant,Rous,99,CZ,Ing.,,36,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+405,556254,Horažďovice,18,Roman,0,138,0,33,0,1.85,0,0,18,průvodce,Vaněk,99,CZ,,,38,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+406,552607,Dolní Tošanovice,18,Petr,0,138,0,11,0,.61,0,0,19,projektový manažer,Vašíček,99,CZ,,,27,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+407,3,Brno,18,Tomáš,0,138,0,6,0,.33,0,0,20,finanční poradce,Psota,99,CZ,,,24,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+408,1,Praha,18,Vladimír,0,138,0,16,0,.9,0,0,21,"IT manažer, ekonom",Janský,129,CZ,Ing.,,57,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+409,3,Brno,18,Václav,0,138,0,12,0,.67,0,0,22,matematik,Linkov,99,CZ,Mgr.,,30,Liberálové.CZ,Liberálové.CZ,0,0,1,138,0,138,Liberálové.CZ,LIB
+410,1,Praha,19,Ota,0,717,0,114,0,11.56,0,0,1,nezávislý poradce,Štros,99,CZ,,,58,Strana demokracie a svobody,Strana demokracie a svobody,0,0,1,717,0,717,Strana demokracie a svobody,SDaS
+411,1,Praha,19,Tomáš,0,717,0,63,0,6.38,0,0,2,ředitel fondů,Hlaváč,99,CZ,JUDr. Ing.,,54,Strana demokracie a svobody,Strana demokracie a svobody,0,0,1,717,0,717,Strana demokracie a svobody,SDaS
+412,1,Praha,19,Alice,0,717,0,136,0,13.79,0,0,3,právník,Kruppová,99,CZ,Dr.iur. Mgr.,LL.M,36,Strana demokracie a svobody,Strana demokracie a svobody,0,0,1,717,0,717,Strana demokracie a svobody,SDaS
+413,532053,Kladno,19,Jaroslav,0,717,0,42,0,4.25,0,0,4,ředitel banky,Hlavsa,99,CZ,Ing.,,44,Strana demokracie a svobody,Strana demokracie a svobody,0,0,1,717,0,717,Strana demokracie a svobody,SDaS
+414,598933,Český Těšín,20,Jan,0,167,0,187,0,2.7,0,0,1,"učitel, školní inspektor",Szotkowski,167,CZ,Mgr.,,56,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+415,1,Praha,20,Ludmila,0,167,0,300,0,4.34,0,0,2,"učitelka VŠ, senátorka Akadem.",Fialová,99,CZ,Doc. PaedDr.,Ph.D.,54,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+416,599344,Frenštát pod Radhoštěm,20,Karla,0,167,0,159,0,2.3,0,0,3,"učitelka, ředitelka školy, př.",Stiborková,99,CZ,Mgr.,,52,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+417,553786,Kdyně,20,Ondřej,0,167,0,112,0,1.62,0,0,4,"učitel, školní inspektor, tren",Kožíšek,99,CZ,PaedDr.,,52,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+418,598003,Frýdek-Místek,20,Danuše,0,167,0,112,0,1.62,0,0,5,"středoškolská učitelka, žurnal",Górecká,99,CZ,PaedDr.,,47,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+419,4,Ostrava,20,Šárka,0,167,0,149,0,2.15,0,0,6,kontrolní pracovník. prev.,Seifertová,99,CZ,Ing.,,44,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+420,1,Praha,20,Bronislav,0,167,0,97,0,1.4,0,0,7,učitel VŠ,Kračmar,99,CZ,Doc. PaedDr.,,51,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+421,571164,Chrudim,20,Markéta,0,167,0,91,0,1.31,0,0,8,středoškolská učitelka,Kopáčková,99,CZ,Ing.,,49,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+422,555134,Pardubice,20,Jiří,0,165,0,86,0,1.24,0,0,9,"ekonomický poradce, živnostník",Reter,99,CZ,Ing.,,55,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+423,585891,Valašské Klobouky,20,Dagmar,0,167,0,66,0,.95,0,0,10,středoškolská učitelka,Zvonková,99,CZ,Mgr.,,56,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+424,507016,Hlučín,20,Miroslav,0,165,0,47,0,.68,0,0,11,"středoškolský učitel, projekt.",Skoták,99,CZ,Mgr.,,55,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+425,544841,Rožnov pod Radhoštěm,20,Zdenka,0,167,0,86,0,1.24,0,0,12,"učitelka, trenérka, rozhodčí",Solanská,99,CZ,Mgr.,,47,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+426,577731,Svitavy,20,Stanislav,0,165,0,45,0,.65,0,0,13,technický manažer,Šustr,99,CZ,Ing.,,48,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+427,598917,Karviná,20,Kamila,0,167,0,113,0,1.63,0,0,14,středoškolská učitelka,Foltynová,99,CZ,Mgr.,,36,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+428,598089,Dobrá,20,Iveta,0,167,0,36,0,.52,0,0,15,"učitelka, finanční a IT spec.",Vranayová,99,CZ,Ing.,,43,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+429,1,Praha,20,Eva,0,165,0,41,0,.59,0,0,16,"učitelka VŠ, živnostník",Tlapáková,99,CZ,PhDr.,CSc.,57,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+430,533581,Plaňany,20,Martin,0,167,0,62,0,.89,0,0,17,"učitel, starosta obce",Charvát,99,CZ,Mgr.,,40,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+431,4,Ostrava,20,Ivona,0,167,0,71,0,1.02,0,0,18,"učitelka,ředitelka o.s.S.T.O.P",Šťovičková,99,CZ,Mgr.,,27,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+432,599565,Kopřivnice,20,Lumír,0,167,0,34,0,.49,0,0,19,"učitel, ředitel školy",Pospěch,99,CZ,Mgr.,,50,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+433,533394,Konárovice,20,Aleš,0,167,0,55,0,.79,0,0,20,"učitel, starosta obce",Kratochvíl,99,CZ,,,38,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+434,599646,Luboměř,20,Jiljí,0,167,0,42,0,.6,0,0,21,učitel,Šimíček,99,CZ,Mgr.,,70,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+435,598089,Dobrá,20,Alice,0,165,0,21,0,.3,0,0,22,"učitelka, ředitelka školy",Sobková,99,CZ,Mgr.,,54,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+436,598445,Morávka,20,Gabriela,0,167,0,23,0,.33,0,0,23,"učitelka, zástupce ředitele šk",Daňková,99,CZ,Mgr.,,41,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+437,578657,Radiměř,20,Miloslav,0,165,0,48,0,.69,0,0,24,"živnostník, předseda SDŽP",Kopecký,165,CZ,,,61,"Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",Nejen hasiči a živnostníci s učiteli do Evropy,0,0,2,"165,167",0,655,Nejen has. a živn. s uč. do E.,HNDPSDZP
+438,1,Praha,21,Miloslav,1,47,0,61453,18.36,18.36,1,0,1,poslanec Evropského parlamentu,Ransdorf,47,CZ,PhDr.,CSc.,56,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+439,1,Praha,21,Vladimír,1,47,0,40650,12.14,12.14,2,0,2,poslanec Evropského parlamentu,Remek,99,CZ,Ing.,,60,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+440,2,Plzeň,21,Jiří,1,47,0,8181,0,2.44,3,0,3,poslanec Evropského parlamentu,Maštálka,47,CZ,MUDr.,,53,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+441,567442,Teplice,21,Jaromír,1,47,0,5719,0,1.7,4,0,4,poslanec Evropského parlamentu,Kohlíček,47,CZ,Ing.,CSc.,56,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+442,4,Ostrava,21,Věra,0,47,0,4938,0,1.47,0,1,5,poslankyně Evropského parlam.,Flasarová,47,CZ,RSDr. Ing.,,56,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+443,599191,Nový Jičín,21,Kateřina,0,47,0,10623,0,3.17,0,2,6,poslankyně PS Parlamentu ČR,Konečná,47,CZ,Ing.,,28,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+444,581283,Blansko,21,Zuzka,0,47,0,11066,0,3.3,0,3,7,poslankyně PS Parlamentu ČR,Bebarová-Rujbrová,47,CZ,JUDr.,,58,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+445,1,Praha,21,Hassan,0,47,0,596,0,.17,0,4,8,vedoucí mezinárodního odděl.,Charfo,47,CZ,Doc. Ing.,DrSc.,65,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+446,1,Praha,21,Jiří,0,47,0,967,0,.28,0,5,9,vysokoškolský učitel,Hudeček,74,CZ,Doc. RNDr.,CSc.,55,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+447,1,Praha,21,Václav,0,47,0,3827,0,1.14,0,6,10,poslanec PS Parlamentu ČR,Exner,47,CZ,RNDr.,CSc.,66,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+448,1,Praha,21,František,0,47,0,686,0,.2,0,7,11,ředitel Výzkum.ústavu geodet.,Beneš,47,CZ,Ing.,CSc.,64,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+449,596230,Nové Město na Moravě,21,Marie,0,47,0,1524,0,.45,0,8,12,právnička,Rusová,47,CZ,JUDr.,,58,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+450,1,Praha,21,Čestmír,0,47,0,689,0,.2,0,9,13,právník,Kubát,47,CZ,JUDr.,CSc.,53,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+451,545171,Trhové Sviny,21,Pavla,0,47,0,1066,0,.31,0,10,14,studentka,Šlahúnková,99,CZ,,,21,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+452,1,Praha,21,Lubomír,0,47,0,910,0,.27,0,11,15,poradce v oblasti řízení,Ledl,74,CZ,JUDr.,,56,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+453,505927,Opava,21,Milan,0,47,0,1107,0,.33,0,12,16,student,Krajča,47,CZ,,,25,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+454,550787,Strakonice,21,Lenka,0,47,0,1459,0,.43,0,13,17,lékařka,Baborová,99,CZ,MUDr.,,31,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+455,1,Praha,21,Helena,0,47,0,194,0,.05,0,14,18,novinářka,Briardová,47,CZ,PhDr.,,62,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+456,1,Praha,21,Roman,0,47,0,697,0,.2,0,15,19,novinář,Janouch,47,CZ,Mgr.,,36,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+457,563889,Liberec,21,Kateřina,0,47,0,1219,0,.36,0,16,20,pracovnice okresního soudu,Klikarová,47,CZ,,,25,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+458,537454,Lysá nad Labem,21,Petr,0,47,0,226,0,.06,0,17,21,inspektor odb. elektroenergit.,Gregor,99,CZ,Ing.,,63,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+459,551953,Vodňany,21,Martina,0,47,0,447,0,.13,0,18,22,studentka,Přikrylová,99,CZ,Bc.,,24,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+460,4,Ostrava,21,Alena,0,47,0,418,0,.12,0,19,23,vedoucí referentka staveb. úř.,Klepšová,47,CZ,,,56,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+461,1,Praha,21,Vratislav,0,47,0,47,0,.01,0,20,24,podnikatel,Datel,99,CZ,RNDr.,CSc.,62,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+462,531634,Osek,21,Hana,0,47,0,356,0,.1,0,21,25,podnikatelka,Rodinová,99,CZ,Ing.,Ph.D.,28,Komunistická strana Čech a Moravy,Komunistická strana Čech a Moravy,0,4,1,047,0,47,Komunistická str.Čech a Moravy,KSČM
+463,1,Praha,22,Jaromír,0,166,0,14032,0,25.99,0,0,1,"nezávislý senátor, spisovatel",Štětina,99,CZ,Ing.,,66,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+464,563510,Jablonec nad Nisou,22,Soňa,0,702,0,2085,0,3.86,0,0,2,"nezávislá senátorka, pedagožka",Paukrtová,99,CZ,Mgr.,,59,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+465,1,Praha,22,Petr,0,166,0,904,0,1.67,0,0,3,vysokoškolský učitel,Hůla,99,CZ,Ing.,Ph.D.,34,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+466,1,Praha,22,Josef,0,702,0,198,0,.36,0,0,4,"publicista, generální sekretář",Brož,103,CZ,,DESS,43,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+467,533955,Kutná Hora,22,Ivo,0,166,0,673,0,1.24,0,0,5,"jednatel, bývalý starosta měs.",Šanc,99,CZ,RNDr.,CSc.,54,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+468,535087,Neratovice,22,Miroslav,0,166,0,208,0,.38,0,0,6,starosta města Neratovice,Lid,99,CZ,PaedDr.,,60,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+469,1,Praha,22,Vladimír,0,702,0,1056,0,1.95,0,0,7,architekt Vlado Milunić,Milunič,99,CZ,Ing. arch.,,68,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+470,505927,Opava,22,Pavla,0,702,0,492,0,.91,0,0,8,"soudní znalkyně, překladatelka",Brady,99,CZ,Ing.,,37,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+471,506486,Boží Dar,22,Jan,0,702,0,782,0,1.44,0,0,9,senátor a starosta města Boží,Horník,99,CZ,Ing.,,55,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+472,597961,Vrbno pod Pradědem,22,Jitka,0,166,0,195,0,.36,0,0,10,středoškolská učitelka,Krätschmerová,99,CZ,Ing.,,47,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+473,545201,Týn nad Vltavou,22,Karel,0,166,0,237,0,.43,0,0,11,starosta města Týn nad Vltavou,Hájek,99,CZ,Mgr.,,59,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+474,2,Plzeň,22,Pavel,0,702,0,129,0,.23,0,0,12,radní Městské části Plzeň 3,Stelzer,99,CZ,Ing.,,58,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+475,554804,Ústí nad Labem,22,Lenka,0,702,0,332,0,.61,0,0,13,ředitelka dobrovolnického cen.,Černá,102,CZ,Mgr.,,35,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+476,585980,Vysoké Pole,22,Stanislav,0,166,0,577,0,1.06,0,0,14,místostarosta obce Vysoké Pole,Polčák,166,CZ,JUDr.,,29,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+477,573990,Česká Skalice,22,Petr,0,166,0,156,0,.28,0,0,15,technik,Fejfar,99,CZ,Bc.,,50,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+478,536385,Jeseník,22,Jiří,0,166,0,292,0,.54,0,0,16,místostarosta města Jeseník,Staňa,99,CZ,MUDr.,,56,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+479,563889,Liberec,22,Jiří,0,702,0,246,0,.45,0,0,17,zastupitel města Liberec,Šolc,103,CZ,,,31,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+480,591181,Moravské Budějovice,22,Vlastimil,0,166,0,298,0,.55,0,0,18,starosta města Moravské Buděj.,Bařinka,99,CZ,Ing.,,51,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+481,554804,Ústí nad Labem,22,Karola,0,702,0,163,0,.3,0,0,19,lékařka-imunoložka,Haasová,102,CZ,MUDr.,,44,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+482,563951,Únice,22,Jan,0,702,0,89,0,.16,0,0,20,architekt,Rampich,99,CZ,Ing. Arch.,,56,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+483,572365,Horní Újezd,22,Josef,0,166,0,57,0,.1,0,0,21,starosta obce Horní Újezd,Mokrejš,99,CZ,,,61,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+484,519651,Troubky,22,Radek,0,166,0,242,0,.44,0,0,22,starosta města Troubky,Brázda,99,CZ,,,37,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+485,571580,Kladno,22,Vladimír,0,702,0,30,0,.05,0,0,23,lékař,Mirka,99,CZ,MUDr.,,54,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+486,1,Praha,22,Pavel,0,702,0,84,0,.15,0,0,24,"vědec, předseda KAN",Holba,40,CZ,Ing.,CSc.,68,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+487,559075,Kralovice,22,Petr,0,702,0,59,0,.1,0,0,25,"stavitel, projektový manažer",Czasch,200,CZ,,,48,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+488,547077,Samotišky,22,Pavel,0,702,0,88,0,.16,0,0,26,vysokoškolský pedagog,Nováček,103,CZ,Doc. RNDr.,CSc.,48,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+489,532053,Kladno,22,Karel,0,702,0,50,0,.09,0,0,27,zubař,Protiva,40,CZ,MUDr.,,57,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+490,593699,Zbýšov,22,Jaroslav,0,166,0,67,0,.12,0,0,28,starosta obce Zbýšov,Žalkovský,99,CZ,,,47,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+491,585939,Vizovice,22,Alena,0,166,0,327,0,.6,0,0,29,"starostka města Vizovice, ped.",Hanáková,99,CZ,Mgr.,,50,"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""","""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA""",0,0,2,"166,702",0,656,"""STAR.A NEZ.-VAŠE ALTERNATIVA""",VAŠEALT.
+492,1,Praha,23,Jiří,0,714,0,3437,0,11.51,0,0,1,poradce prezidenta republiky,Payne,714,CZ,RNDr.,,52,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+493,1,Praha,23,Benjamin Miloslav,0,714,0,3341,0,11.19,0,0,2,spisovatel,Kuras,714,CZ,,,65,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+494,1,Praha,23,Miloslav,0,714,0,1059,0,3.54,0,0,3,vědecký pracovník a  VŠ učitel,Bednář,714,CZ,Prof. PhDr.,,60,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+495,3,Brno,23,David,0,714,1,0,0,0,0,0,4,obchodní manažer,Hanák,714,CZ,Mgr.,,37,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+496,537942,Vestec,23,Alena,0,714,0,275,0,.92,0,0,5,manažerka v oblasti kultury,Šedivá,714,CZ,,,54,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+497,1,Praha,23,Martin,0,714,0,236,0,.79,0,0,6,specialista farmaceutické dok.,Muzikář,714,CZ,Mgr.,Ph.D.,35,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+498,511382,Přerov,23,Jan,0,714,0,326,0,1.09,0,0,7,student vysoké školy,Kasal,714,CZ,Bc.,,24,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+499,1,Praha,23,Petr,0,714,0,411,0,1.37,0,0,8,historik,Bahník,99,CZ,Mgr.,,41,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+500,1,Praha,23,Ladislav,0,714,0,208,0,.69,0,0,9,publicista,Bátora,714,CZ,Ing. Mgr. Bc.,Ph.D.,57,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+501,588032,Třešť,23,Vladislav,0,714,0,137,0,.45,0,0,10,starosta,Nechvátal,714,CZ,Ing.,,44,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+502,4,Ostrava,23,Petr,0,714,0,182,0,.6,0,0,11,podnikatel,Viktorýn,714,CZ,,,39,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+503,586846,Jihlava,23,Filip,0,714,0,237,0,.79,0,0,12,plastický chirurg,Černoch,714,CZ,MUDr.,,35,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+504,554804,Ústí nad Labem,23,Rostislav,0,714,0,106,0,.35,0,0,13,ředitel vydavatelství,Pech,714,CZ,Ing.,,40,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+505,586846,Jihlava,23,Libor,0,714,0,114,0,.38,0,0,14,ředitel hotelu,Novák,714,CZ,Bc.,,53,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+506,3,Brno,23,Rostislav,0,714,0,70,0,.23,0,0,15,projektant TPS,Srstka,714,CZ,,,54,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+507,592005,Uherské Hradiště,23,Pavel,0,714,0,89,0,.29,0,0,16,podnikatel,Machálek,714,CZ,,,47,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+508,592005,Uherské Hradiště,23,Radim,0,714,0,62,0,.2,0,0,17,podnikatel,Kress,714,CZ,,,41,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+509,1,Praha,23,Milan,0,714,0,30,0,.1,0,0,18,daňový poradce,Makový,714,CZ,,,51,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+510,1,Praha,23,Robert,0,714,0,60,0,.2,0,0,19,systémový expert IT,Kefurt,714,CZ,,,46,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+511,3,Brno,23,Pavel,0,714,0,51,0,.17,0,0,20,osoba samostatně výdělečně čin,Krajsa,714,CZ,Ing.,,48,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+512,578576,Polička,23,Tomáš,0,714,0,89,0,.29,0,0,21,biochemik,Kaláb,714,CZ,RNDr.,Ph.D.,38,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+513,592145,Dolní Němčí,23,Tomáš,0,714,0,103,0,.34,0,0,22,podnikatel,Horák,714,CZ,Bc.,,28,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+514,534897,Kly,23,Tomáš,0,714,0,48,0,.16,0,0,23,výkonný ředitel,Marek,714,CZ,,MBA,37,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+515,537683,Poděbrady,23,Luděk,0,714,0,34,0,.11,0,0,24,soukromý podnikatel oboru obch,Konopáč,714,CZ,Bc.,,47,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+516,,,23,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,25,,Kandidát v registraci škrtnut,,,,,,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+517,1,Praha,23,Michal,0,714,0,209,0,.7,0,0,26,ředitel institutu sv. Josefa,Semín,99,CZ,Mgr.,,41,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+518,567027,Most,23,František,0,714,0,197,0,.66,0,0,27,vedoucí kanceláře nadačního fo,Matějka,714,CZ,,,38,Strana svobodných občanů,Strana svobodných občanů,0,0,1,714,0,714,Strana svobodných občanů,Svobodní
+519,1,Praha,24,Lukáš,0,129,0,5015,0,12.8,0,0,1,"politolog a manažer, řed. evr.",Macek,99,CZ,,M.A.,33,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+520,564982,Květnice,24,Zuzana,0,129,0,6729,0,17.18,0,0,2,ředitelka Nadace Naše dítě,Baudyšová,99,CZ,Ing.,,61,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+521,531189,Hořovice,24,Jiří,0,129,0,1861,0,4.75,0,0,3,"ekonom, člen kabinetu místopř.",Plecitý,99,CZ,Ing.,,32,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+522,579025,Trutnov,24,Eva,0,129,0,1525,0,3.89,0,0,4,poradkyně Zahran.výb. EP,Palatová,99,CZ,PhDr.,,30,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+523,599247,Bílovec,24,Sylva,0,129,0,431,0,1.1,0,0,5,starostka města Bílovec,Kováčiková,129,CZ,Ing.,,51,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+524,562572,Jiřetín pod Jedlovou,24,Josef,0,129,0,536,0,1.36,0,0,6,starosta obce Jiřetín pod Jedl,Zoser,112,CZ,,,60,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+525,539333,Jílové u Prahy,24,Květa,0,129,0,150,0,.38,0,0,7,ředitelka vzdělávacího centra,Halanová,129,CZ,Mgr.,,50,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+526,584291,Břeclav,24,Martin,0,129,0,3786,0,9.66,0,0,8,architekt a radní  m. Břeclavi,Ondrouch,129,CZ,Ing. arch.,Ph.D.,38,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+527,505927,Opava,24,Václav,0,129,0,664,0,1.69,0,0,9,"politolog, asistent europosl.",Lebeda,99,CZ,,M.A.,27,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+528,535206,Dobrá Voda u Českých Budějovic,24,Vojtěch,0,129,0,169,0,.43,0,0,10,student,Hledík,129,CZ,,,23,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+529,500496,Olomouc,24,Marek,0,129,0,346,0,.88,0,0,11,"lékař, vědec.prac., předseda",Hilšer,99,CZ,MUDr.,,33,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+530,3,Brno,24,Eliška,0,129,0,130,0,.33,0,0,12,místostarostka m.č. Brno Bystr,Kovářová,129,CZ,Mgr.,,64,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+531,576247,Deštné v Orlických horách,24,Václava,0,129,0,516,0,1.31,0,0,13,krajská zastupitelka Královehr,Domšová,129,CZ,Ing.,,51,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+532,555134,Pardubice,24,Miroslav,0,129,0,204,0,.52,0,0,14,"architekt, zastupitel",Petráň,129,CZ,Ing. arch.,,57,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+533,500496,Olomouc,24,Eliška,0,129,0,469,0,1.19,0,0,15,docentka katedry chorob vnitř.,Sovová,99,CZ,Doc. MUDr.,"Ph.D., MBA",48,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+534,1,Praha,24,Helena,0,129,0,80,0,.2,0,0,16,místostarostka m.č. Praha 12,Chudomelová,129,CZ,JUDr.,,58,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+535,571164,Chrudim,24,Petr,0,129,0,194,0,.49,0,0,17,místostarosta m. Chrudimi,Řezníček,129,CZ,Mgr.,,58,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+536,586846,Jihlava,24,Pavlína,0,129,0,74,0,.18,0,0,18,projektová manažerka,Zábranská,129,CZ,Mgr.,,31,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+537,1,Praha,24,Jan,0,129,0,71,0,.18,0,0,19,bankovní manažer,Havlůj,99,CZ,Ing.,,33,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+538,535419,Mladá Boleslav,24,Jan,0,129,0,79,0,.2,0,0,20,1.náměstek primátora,Smutný,129,CZ,Mgr.,,49,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+539,544841,Rožnov pod Radhoštěm,24,Ivo,0,129,0,111,0,.28,0,0,21,jednatel společnosti,Jelínek,129,CZ,,,45,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+540,563889,Liberec,24,Věra,0,129,0,35,0,.08,0,0,22,referentka marketingu,Dostrašilová,129,CZ,Mgr.,,44,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+541,1,Praha,24,Jan,0,129,0,25,0,.06,0,0,23,projektový manažer,Sova,129,CZ,Mgr.,,28,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+542,560286,Sokolov,24,Miroslav,0,129,0,55,0,.14,0,0,24,umělecký kovář,Parihuzič,129,CZ,,,54,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+543,1,Praha,24,Markéta,0,129,0,78,0,.19,0,0,25,náměstkyně primátora hl.m.P,Reedová,129,CZ,Bc.,,40,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+544,544256,České Budějovice,24,Josef,0,129,0,23,0,.05,0,0,26,finanční poradce,Hlaváč,129,CZ,Ing.,,64,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+545,566730,Holovousy,24,Martina,0,129,0,109,0,.27,0,0,27,starostka obce Holovousy,Berdychová,129,CZ,Mgr.,,38,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+546,554961,Karlovy Vary,24,Jana,0,129,0,30,0,.07,0,0,28,odborný pracovník ekocentra,Jandová,129,CZ,,DiS.,55,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+547,576069,Rychnov nad Kněžnou,24,Helmut,0,129,0,166,0,.42,0,0,29,náměstek hejtmana Královehr.,Dohnálek,129,CZ,,,43,SNK Evropští demokraté,SNK Evropští demokraté,0,0,1,129,0,129,SNK Evropští demokraté,SNK ED
+548,1,Praha,25,Jiří,0,140,0,375,0,10.1,0,0,1,kavárník,Hrdina,140,CZ,,,56,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+549,1,Praha,25,Václav,0,140,0,126,0,3.39,0,0,2,programátor,Trojan,5,CZ,,,63,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+550,2,Plzeň,25,Marcela,0,140,0,113,0,3.04,0,0,3,státní zaměstnanec,Gvozdková,99,CZ,,,36,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+551,2,Plzeň,25,Jan,0,140,0,187,0,5.03,0,0,4,hudebník,Schinabek,99,CZ,,,38,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+552,2,Plzeň,25,Pavel,0,140,0,154,0,4.14,0,0,5,"filmař, konzultant",Kolouch,99,CZ,Ing.,,38,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+553,2,Plzeň,25,Martin,0,140,0,93,0,2.5,0,0,6,středoškolský pedagog,Škoula,99,CZ,Bc.,,40,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+554,2,Plzeň,25,Štefan,0,140,0,76,0,2.04,0,0,7,stavební dozor,Pudelský,99,CZ,Ing.,,40,Balbínova poetická strana,Balbínova poetická strana,0,0,1,140,0,140,Balbínova poetická strana,BPS
+555,1,Praha,26,Jan,0,5,0,4246,0,8.73,0,0,1,náměstek ministra životního,Dusík,5,CZ,JUDr.,,34,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+556,1,Praha,26,Kateřina,0,5,0,5810,0,11.94,0,0,2,poslankyně PS PČR,Jacques,5,CZ,PhDr.,,38,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+557,562971,Chomutov,26,Přemysl,0,5,0,4499,0,9.25,0,0,3,poslanec PS PČR,Rabas,5,CZ,MVDr.,,45,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+558,1,Praha,26,Jiřina,0,5,0,9660,0,19.86,0,0,4,socioložka,Šiklová,99,CZ,PhDr.,CSc.,73,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+559,1,Praha,26,Milan,0,5,0,834,0,1.71,0,0,5,poslanec EP,Horáček,5,CZ,,,62,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+560,555134,Pardubice,26,Lucie,0,5,0,1113,0,2.28,0,0,6,asistentka ředitelky kabinetu,Horváthová,99,CZ,Bc.,,27,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+561,3,Brno,26,Mojmír,0,5,0,2407,0,4.95,0,0,7,"ekolog, zastupitel města Brna",Vlašín,99,CZ,RNDr.,,54,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+562,562971,Chomutov,26,Džamila,0,5,0,1450,0,2.98,0,0,8,lékařka,Stehlíková,5,CZ,MUDr.,,47,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+563,1,Praha,26,Zuzana,0,5,0,423,0,.86,0,0,9,sociální ekoložka,Drhová,5,CZ,Ing.,PhD,45,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+564,1,Praha,26,Giuseppe,0,5,0,534,0,1.09,0,0,10,vysokoškolský učitel,Maiello,99,IT,,,46,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+565,505188,Šternberk,26,Monika,0,5,0,208,0,.42,0,0,11,lektorka německého jazyka,Mackovíková,5,CZ,Mgr.,,36,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+566,599191,Nový Jičín,26,Petr,0,5,0,800,0,1.64,0,0,12,vedoucí záchranné stanice,Orel,5,CZ,,,49,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+567,3,Brno,26,Yvonna,0,5,0,728,0,1.49,0,0,13,ředitelka Ekologického instit.,Gaillyová,99,CZ,RNDr.,CSc.,53,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+568,550094,Prachatice,26,Alois,0,5,0,243,0,.49,0,0,14,referent státní správy,Pavlíčko,99,CZ,Ing.,Ph.D.,48,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+569,3,Brno,26,Jana,0,5,0,419,0,.86,0,0,15,starostka městské části Brno,Drápalová,5,CZ,Ing.,,46,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+570,588296,Kroměříž,26,Jakub,0,5,0,231,0,.47,0,0,16,student,Popovský,5,CZ,Bc.,,24,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+571,586846,Jihlava,26,Irena,0,5,0,115,0,.23,0,0,17,náměstkyně primátora,Wagnerová,5,CZ,Akad.mal.,,49,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+572,1,Praha,26,Šádí,0,5,0,388,0,.79,0,0,18,poradce pro zahraniční vztahy,Shanaáh,5,CZ,M.Phil.,,26,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+573,579025,Trutnov,26,Martina,0,5,0,239,0,.49,0,0,19,právnička,Pokorná,5,CZ,Mgr.,,34,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+574,544841,Rožnov pod Radhoštěm,26,František,0,5,0,203,0,.41,0,0,20,samostatný odborný pracovník,Šulgan,5,CZ,Ing.,,52,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+575,554961,Karlovy Vary,26,Štěpánka,0,5,0,87,0,.17,0,0,21,podnikatelka,Bergerová,5,CZ,Ing.,,42,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+576,1,Praha,26,Ondřej,0,5,0,75,0,.15,0,0,22,zastupitel městské části,Mirovský,5,CZ,Mgr.,M.EM,30,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+577,583596,Ostopovice,26,Zuzana,0,5,0,92,0,.18,0,0,23,starostka obce,Benešová,5,CZ,Mgr.,,32,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+578,1,Praha,26,Oldřich,0,5,0,87,0,.17,0,0,24,novinář,Janeba,5,CZ,,,33,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+579,1,Praha,26,Matthieu Bernard Marie,0,5,0,82,0,.16,0,0,25,finanční manažer,Minart,99,FR,,,34,Strana zelených,Strana zelených,0,0,1,005,0,5,Strana zelených,SZ
+580,1,Praha,27,Václav,0,55,0,232,0,5.21,0,0,1,"průvodce, tlumočník, majitel",Srb,55,CZ,,,51,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+581,1,Praha,27,Petr,0,55,0,175,0,3.93,0,0,2,"právník, manažer, vš. lektor",Krátký,55,CZ,Mgr.et Bc.,,34,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+582,1,Praha,27,Jindřich,0,55,0,51,0,1.14,0,0,3,ekonom,Jenček,55,CZ,Ing.,,76,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+583,573591,Pohleď,27,Martina,0,55,0,130,0,2.92,0,0,4,lékařka,Benešová,99,CZ,MUDr.,,26,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+584,539627,Roztoky,27,Petr,0,55,0,63,0,1.41,0,0,5,manažer marketingu a control.,Nohel,55,CZ,Mgr.et Mgr.,,30,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+585,2,Plzeň,27,Oldřich,0,55,0,82,0,1.84,0,0,6,"architekt, člen městského zas.",Kodeda,99,CZ,Ing. arch.,,50,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+586,3,Brno,27,Pavla,0,55,0,48,0,1.07,0,0,7,překladatelka,Drinocká,55,CZ,Mgr.,,60,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+587,572926,Hořice,27,Jakub,0,55,0,82,0,1.84,0,0,8,student latinskoamerických st.,Holman,99,CZ,Bc.,,24,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+588,500496,Olomouc,27,Pavel,0,55,0,135,0,3.03,0,0,9,lékař,Andrš,99,CZ,MUDr.,,45,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+589,538132,Čelákovice,27,Jaroslav,0,55,0,35,0,.78,0,0,10,"živnostník, podnikatel",Konečný,55,CZ,,,40,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+590,1,Praha,27,Daniela,0,55,0,63,0,1.41,0,0,11,"akademická sochařka, překlad.",Kartáková,99,CZ,Mgr.,,44,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+591,579025,Trutnov,27,Richard,0,55,0,81,0,1.82,0,0,12,"lékař, primář oddělení neurol.",Plný,99,CZ,MUDr.,,38,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+592,1,Praha,27,Pavel,0,55,0,26,0,.58,0,0,13,podnikatel,Krejčí,55,CZ,,,28,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+593,584801,Pohořelice,27,Josef,0,55,0,70,0,1.57,0,0,14,"lékař, člen obecního zastupit.",Hrabovský,55,CZ,MUDr.,,54,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+594,1,Praha,27,Miroslav,0,55,0,4,0,.08,0,0,15,vedoucí administrativy,Krupka,55,CZ,,,49,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+595,573591,Pohleď,27,Jindřich,0,55,0,40,0,.89,0,0,16,"starosta, živnostník",Holub,55,CZ,,,40,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+596,544540,Hranice,27,Irena Marie,0,55,0,80,0,1.79,0,0,17,historička umění,Kubešová,99,CZ,Mgr.,,39,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+597,1,Praha,27,Bohumil,0,55,0,31,0,.69,0,0,18,sociální pracovník,Šourek,55,CZ,,,60,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+598,555134,Pardubice,27,Miloslav,0,55,0,20,0,.44,0,0,19,předseda představenstva,Šimek,55,CZ,,,58,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+599,1,Praha,27,Michal,0,55,0,16,0,.35,0,0,20,advokát,Benčok,99,CZ,,,57,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+600,586048,Blatnice pod Svatým Antonínkem,27,Antonín,0,55,0,18,0,.4,0,0,21,technik,Janás,55,CZ,,,66,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+601,584975,Valtice,27,Luboš,0,55,0,43,0,.96,0,0,22,fotograf,Velecký,55,CZ,,,48,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+602,563099,Jirkov,27,Jan,0,55,0,10,0,.22,0,0,23,ředitel nadace,Mrzílek,55,CZ,,,55,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+603,1,Praha,27,Václav,0,55,0,5,0,.11,0,0,24,podnikatel,Dajbych,1,CZ,,,57,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+604,535419,Mladá Boleslav,27,Martin,0,55,0,13,0,.29,0,0,25,vedoucí interní auditor,Dědek,55,CZ,,,32,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+605,586641,Šardice,27,Zlatko,0,55,0,20,0,.44,0,0,26,veterinární lékař,Mikitka,99,CZ,MVDr.,,44,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+606,1,Praha,27,Jan,0,55,0,16,0,.35,0,0,27,středoškolský učitel,Kopecký,99,CZ,Mgr.,,32,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+607,1,Praha,27,Otakar,0,55,0,23,0,.51,0,0,28,živnostník,Ryšavý,55,CZ,,,46,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+608,546828,Staňkovice,27,Karel,0,55,0,33,0,.74,0,0,29,kuchař-sous chef,Stejskal,55,CZ,,,33,"Koruna Česká (monarchistická strana Čech, Moravy a Slezska)","Koruna Česká (monarch.str.Čech, Moravy a Slezska)",0,0,1,055,0,55,Koruna Česká (monarch.strana),"""KČ"""
+609,535419,Mladá Boleslav,28,Karel,0,711,0,47,0,8.62,0,0,1,podnikatel,Kučera,711,CZ,,,36,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+610,1,Praha,28,Jiří,0,711,0,22,0,4.03,0,0,2,podnikatel,Michalička,711,CZ,,,39,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+611,1,Praha,28,Jan,0,711,0,5,0,.91,0,0,3,podnikatel,Pichert,711,CZ,,,34,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+612,575071,Chvaletice,28,Petr,0,711,0,14,0,2.56,0,0,4,podnikatel,Rambousek,711,CZ,,,42,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+613,539392,Kosoř,28,Zdeněk,0,711,0,7,0,1.28,0,0,5,podnikatel,Slivoň,711,CZ,,,40,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+614,1,Praha,28,Michaela,0,711,0,12,0,2.2,0,0,6,podnikatelka,Zvarová,711,CZ,,,23,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+615,1,Praha,28,Eva,0,711,0,16,0,2.93,0,0,7,podnikatelka,Fucimanová,711,CZ,,,49,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+616,546364,Horní Pěna,28,Jaroslav,0,711,0,11,0,2.01,0,0,8,podnikatel,Kaňka,711,CZ,,,51,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+617,1,Praha,28,Alexandr,0,711,0,16,0,2.93,0,0,9,podnikatel,Rusevský,711,CZ,,,38,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+618,1,Praha,28,Tomáš,0,711,0,4,0,.73,0,0,10,podnikatel,Bok,711,CZ,,,29,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+619,544256,České Budějovice,28,Miroslav,0,711,0,4,0,.73,0,0,11,podnikatel,Hanzlík,711,CZ,,,63,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+620,1,Praha,28,Jan,0,711,0,2,0,.36,0,0,12,podnikatel,Ciganik,711,CZ,,,51,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+621,555771,Klatovy,28,Richard,0,711,0,30,0,5.5,0,0,13,podnikatel,Vojík,711,CZ,,,55,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+622,578347,Litomyšl,28,Martin,0,711,0,30,0,5.5,0,0,14,podnikatel,Novák,711,CZ,,,40,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+623,539392,Kosoř,28,Jitka,0,711,0,3,0,.55,0,0,15,podnikatelka,Slivoňová,711,CZ,,,38,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+624,1,Praha,28,Tomáš,0,711,0,6,0,1.1,0,0,16,podnikatel,Nejedlý,711,CZ,,,35,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+625,558125,Neurazy,28,Jiří,0,711,0,7,0,1.28,0,0,17,podnikatel,Rybár,711,CZ,,,35,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+626,1,Praha,28,Filip,0,711,0,9,0,1.65,0,0,18,advokát,Šutry,711,CZ,,,31,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+627,1,Praha,28,Jaroslava,0,711,0,4,0,.73,0,0,19,podnikatelka,Abrahámová,711,CZ,,,37,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+628,1,Praha,28,Jana,0,711,0,7,0,1.28,0,0,20,asistentka,Pallendalová,711,CZ,,,24,Lidé a Politika,Lidé a Politika,0,0,1,711,0,711,Lidé a Politika,LAP
+629,1,Praha,29,Jiří,0,716,0,479,0,10.54,0,0,1,"zubní lékař, předseda České st",Pekárek,99,CZ,MUDr.,,56,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+630,1,Praha,29,Bedřich,0,716,0,168,0,3.69,0,0,2,"živnostník, předseda Sdružení",Danda,716,CZ,,,69,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+631,2,Plzeň,29,Rostislav,0,716,0,164,0,3.6,0,0,3,"podnikatel, předseda Strany",Senjuk,716,CZ,JUDr. Ing.,,46,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+632,1,Praha,29,Zbyněk,0,716,0,173,0,3.8,0,0,4,"veterinární lékař, ředitel odb",Semerád,99,CZ,MVDr.,,48,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+633,541991,Lány,29,Milan,0,716,0,71,0,1.56,0,0,5,"živnostník, předseda Sdružen.",Ságner,716,CZ,,,50,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+634,548081,Jiřice,29,František,0,716,0,102,0,2.24,0,0,6,"zemědělec, středoškolský uč.",Krupička,99,CZ,Ing.,,36,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+635,580147,Libchavy,29,Ivana,0,716,0,58,0,1.27,0,0,7,živnostník,Snítilová,716,CZ,,,50,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+636,1,Praha,29,Karel,0,716,0,130,0,2.86,0,0,8,podnikatel,Křítek,716,CZ,,,56,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+637,1,Praha,29,Kristina,0,716,0,112,0,2.46,0,0,9,"veterinární technička, odb. o",Valterová,99,CZ,,,29,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+638,566624,Postoloprty,29,Bedřich,0,716,0,34,0,.74,0,0,10,živnostník,Suldovský,716,CZ,,,73,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+639,574988,Holice,29,Petr,0,716,0,53,0,1.16,0,0,11,podnikatel,Bajer,716,CZ,,,42,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+640,1,Praha,29,Ivana,0,716,0,54,0,1.18,0,0,12,statkářka,Kranichová,99,CZ,Ing.,,50,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+641,1,Praha,29,Jiří,0,716,0,19,0,.41,0,0,13,licencovaný hráčský agent FIFA,Stejskal,99,CZ,,,49,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+642,567027,Most,29,Kateřina,0,716,0,87,0,1.91,0,0,14,"studentka, Západočeská univer.",Dolejšková,99,CZ,,,22,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+643,584291,Břeclav,29,Jan,0,716,0,54,0,1.18,0,0,15,obchodník,Baránek,99,CZ,,,29,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+644,547999,Humpolec,29,Ladislav,0,716,0,50,0,1.1,0,0,16,středoškolský učitel ČZA v Hum,Prokop,99,CZ,Ing.,,56,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+645,571041,Třebechovice pod Orebem,29,Radovan,0,716,0,52,0,1.14,0,0,17,živnostník,Hovorka,716,CZ,,,44,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+646,559679,Zruč-Senec,29,Pavel,0,716,0,22,0,.48,0,0,18,podnikatel,Svatoš,99,CZ,,,55,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+647,568635,Golčův Jeníkov,29,Petr,0,716,0,49,0,1.07,0,0,19,živnostník,Zelinger,99,CZ,,,38,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+648,544884,Olešnice,29,Jaroslav,0,716,0,49,0,1.07,0,0,20,živnostník,Buřič,99,CZ,,,53,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+649,530140,Milínov,29,Miroslav,0,716,0,6,0,.13,0,0,21,živnostník,Kotora,99,CZ,,,52,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+650,1,Praha,29,Robert,0,716,0,20,0,.44,0,0,22,živnostník,Kučera,99,CZ,,,39,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+651,576131,Borohrádek,29,Martin,0,716,0,28,0,.61,0,0,23,podnikatel,Hloušek,99,CZ,,,27,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+652,598003,Frýdek-Místek,29,Radek,0,716,0,12,0,.26,0,0,24,fotbalista,Antošík,99,CZ,,,23,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+653,533378,Jevany,29,Petr,0,716,0,5,0,.11,0,0,25,živnostník,Gruber,99,CZ,,,55,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+654,1,Praha,29,Tomáš,0,716,0,18,0,.39,0,0,26,živnostník,Danda,99,CZ,,,56,"""Strana soukromníků České republiky""","""Strana soukromníků České republiky""",0,0,1,716,0,716,"""Strana soukromníků ČR""",SsČR
+655,1,Praha,30,Neela,0,177,0,626,0,16.84,0,0,1,ekoložka,Winkelmannová,99,CZ,Mgr.,Ph.D.,39,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+656,1,Praha,30,Milan,0,177,0,219,0,5.89,0,0,2,chemik,Smrž,177,CZ,,,61,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+657,1,Praha,30,Martin,0,177,0,1013,0,27.25,0,0,3,politik,Mejstřík,99,CZ,Mgr.,,47,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+658,2,Plzeň,30,Alois,0,177,0,88,0,2.36,0,0,4,ekolog,Mach,177,CZ,,,67,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+659,563099,Jirkov,30,Marek,0,177,0,70,0,1.88,0,0,5,podnikatel,Elexa,177,CZ,,,36,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+660,538574,Odolena Voda,30,Mojmír,0,177,0,184,0,4.95,0,0,6,ekologický zemědělec,Koščo,177,CZ,,,37,Zelení,Zelení,0,0,1,177,0,177,Zelení,"""Z"""
+661,542563,Velká Buková,31,Tomáš,0,153,0,3591,0,14.15,0,0,1,předseda Dělnické strany,Vandas,153,CZ,,,40,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+662,567442,Teplice,31,Jiří,0,153,0,775,0,3.05,0,0,2,obchodní referent,Štěpánek,153,CZ,,,37,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+663,586846,Jihlava,31,Martin,0,153,0,528,0,2.08,0,0,3,šefredaktor Dělnických listů,Zbela,153,CZ,,,31,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+664,535087,Neratovice,31,Milan,0,153,0,175,0,.68,0,0,4,technický pracovník,Soukup,99,CZ,Bc.,,43,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+665,563102,Kadaň,31,Petr,0,153,0,302,0,1.19,0,0,5,operátor výroby,Kotáb,153,CZ,,,33,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+666,500496,Olomouc,31,Jiří,0,153,0,386,0,1.52,0,0,6,dělník v elektrotechnice,Švehlík,153,CZ,,,28,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+667,586722,Veselí nad Moravou,31,Stanislav,0,153,0,201,0,.79,0,0,7,nábytkář a učitel nábytkářství,Horňák,99,CZ,Ing.,,44,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+668,575593,Rybitví,31,Martina,0,153,0,223,0,.87,0,0,8,na mateřské dovolené,Pecinová,153,CZ,,,40,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+669,1,Praha,31,Patrik,0,153,0,293,0,1.15,0,0,9,student,Vondrák,153,CZ,,,24,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+670,577081,Harrachov,31,Jindřich,0,153,0,91,0,.35,0,0,10,administrátor,Nestler,153,CZ,,,33,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+671,554804,Ústí nad Labem,31,Jiří,0,153,0,350,0,1.37,0,0,11,překladatel,Beránek,153,CZ,RNDr.,,50,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+672,2,Plzeň,31,Josef,0,153,0,115,0,.45,0,0,12,živnostník,Chodora,99,CZ,,,43,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+673,3,Brno,31,Simona,0,153,0,374,0,1.47,0,0,13,provozní restaurace,Skoumalová,153,CZ,,,23,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+674,552046,Tábor,31,Jaroslav,0,153,0,140,0,.55,0,0,14,ekonom,Mrúz,99,CZ,Ing.,,48,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+675,555088,Havířov,31,Mirko,0,153,0,286,0,1.12,0,0,15,horník,Musil,153,CZ,,,25,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+676,554961,Karlovy Vary,31,Jiří,0,153,0,149,0,.58,0,0,16,realitní makléř,Froněk,153,CZ,,,24,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+677,569569,Světlá nad Sázavou,31,Milan,0,153,0,144,0,.56,0,0,17,administrativní pracovník,Hroch,153,CZ,Bc.,,27,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+678,1,Praha,31,Petr,0,153,0,72,0,.28,0,0,18,kontrolor,Fryč,153,CZ,,,31,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+679,576701,Rokytnice v Orlických horách,31,Antonín,0,153,0,55,0,.21,0,0,19,podnikatel,Grund,99,CZ,,,52,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+680,3,Brno,31,Josef,0,153,0,205,0,.8,0,0,20,zámečník-svářeč,Křivánek,153,CZ,,,36,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+681,555088,Havířov,31,Tomáš,0,153,0,120,0,.47,0,0,21,pracovník ostrahy,Höger,153,CZ,,,29,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+682,1,Praha,31,Ladislav,0,153,0,61,0,.24,0,0,22,auditor,Budz,153,CZ,,,33,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+683,554481,Cheb,31,Věnceslav,0,153,0,78,0,.3,0,0,23,podnikatel,Kabat,153,CZ,Ing.,,52,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+684,574767,Lázně Bohdaneč,31,Vladimír,0,153,0,65,0,.25,0,0,24,řidič,Jirásek,153,CZ,,,48,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+685,593711,Znojmo,31,Rudolf,0,153,0,43,0,.16,0,0,25,odborný bezpečnostní pracovník,Pikola,153,CZ,,,37,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+686,567442,Teplice,31,Daniela,0,153,0,95,0,.37,0,0,26,provozní účetní,Cimrmanová,153,CZ,,,42,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+687,593559,Rousínov,31,Jan,0,153,0,45,0,.17,0,0,27,důchodce,Müller,153,CZ,Ing.,,67,Dělnická strana,Dělnická strana,0,0,1,153,0,153,Dělnická strana,DS
+688,533165,Kolín,32,Roman,0,88,0,1024,0,7.98,0,0,1,"ekonom, prezident AČCKA",Škrabánek,99,CZ,Ing.,,42,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+689,558079,Mohelnice,32,Jana,0,88,0,689,0,5.37,0,0,2,advokátka,Hamplová,88,CZ,Mgr.,,44,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+690,598968,Dolní Lutyně,32,Radomír,0,88,0,437,0,3.4,0,0,3,VŠ pedagog,Kaňa,99,CZ,Ing.,Ph.D.,40,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+691,549649,Tečovice,32,Mojmír,0,88,0,89,0,.69,0,0,4,ředitel pobočky,Novák,99,CZ,Ing.,,48,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+692,598933,Český Těšín,32,Alena,0,88,0,250,0,1.94,0,0,5,pedagog,Hasáková,88,CZ,PhDr.,,54,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+693,1,Praha,32,Karel,0,88,0,27,0,.21,0,0,6,podnikatel,Poukar,88,CZ,Ing.,,59,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+694,500496,Olomouc,32,Marta,0,88,0,106,0,.82,0,0,7,auditor,Pajunčeková,99,CZ,Ing.,,65,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+695,1,Praha,32,Martin,0,88,0,106,0,.82,0,0,8,ekonom,Smrček,88,CZ,Ing.,,41,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+696,555088,Havířov,32,Jiří,0,88,0,102,0,.79,0,0,9,produkční,Basta,99,CZ,,,44,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+697,1,Praha,32,Marcela,0,88,0,156,0,1.21,0,0,10,VŠ pedagog,Štiková,88,CZ,PhDr.,,53,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+698,598933,Český Těšín,32,Filip,0,88,0,171,0,1.33,0,0,11,informatik,Zwyrtek,88,CZ,Bc.,,23,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+699,1,Praha,32,Stanislav,0,88,0,28,0,.21,0,0,12,úředník,Zuzánek,88,CZ,Ing.,,55,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+700,538299,Kamenice,32,Jan,0,88,0,26,0,.2,0,0,13,ředitel agentury,Hladký,99,CZ,Mgr.,,60,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+701,562335,Děčín,32,Marek,0,88,0,102,0,.79,0,0,14,podnikatel,Sedláček,88,CZ,,,32,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+702,598003,Frýdek-Místek,32,Tomáš,0,88,0,142,0,1.1,0,0,15,technik,Krtek,88,CZ,Ing.,,40,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+703,545821,Velešín,32,Monika,0,88,0,182,0,1.41,0,0,16,studentka,Homolková,99,CZ,Bc.,,24,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+704,1,Praha,32,Daniel,0,88,0,48,0,.37,0,0,17,logistik,Strnad,88,CZ,,,35,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+705,541109,Sudkov,32,Milena,0,88,0,137,0,1.06,0,0,18,starostka obce,Sobotková,99,CZ,,,36,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+706,562335,Děčín,32,Hana,0,88,0,45,0,.35,0,0,19,podnikatelka,Sedláčková,99,CZ,,,60,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+707,1,Praha,32,Slavomír,0,88,0,34,0,.26,0,0,20,podnikatel,Lokvenc,88,CZ,,,39,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+708,1,Praha,32,Karel,0,88,0,14,0,.1,0,0,21,obchodník,Příhoda,88,CZ,,,42,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+709,558079,Mohelnice,32,Martin,0,88,0,55,0,.42,0,0,22,technik,Špunda,99,CZ,,,32,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+710,1,Praha,32,Emanuel,0,88,0,49,0,.38,0,0,23,zpěvák,Vohnout,99,CZ,,,48,NEZÁVISLÍ,NEZÁVISLÍ,0,0,1,088,0,88,NEZÁVISLÍ,NEZ
+711,1,Praha,33,Jiří,1,7,0,59818,11.32,11.32,1,0,1,vysokoškolský pedagog,Havel,7,CZ,Doc. Ing.,CSc.,51,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+712,1,Praha,33,Richard,1,7,0,44703,8.46,8.46,2,0,2,poslanec EP,Falbr,7,CZ,JUDr.,,68,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+713,532274,Družec,33,Libor,1,7,0,19771,0,3.74,3,0,3,poslanec EP,Rouček,7,CZ,Dr.,,54,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+714,539481,Valy,33,Pavel,1,7,0,4814,0,.91,4,0,4,jednatel společnosti,Poc,7,CZ,RNDr.,,45,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+715,584002,Tišnov,33,Zuzana,1,7,0,7736,0,1.46,5,0,5,poslankyně PS PČR,Brzobohatá,7,CZ,Ing.,,46,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+716,563889,Liberec,33,Robert,1,7,0,4042,0,.76,6,0,6,poslanec PS PČR,Dušek,7,CZ,,,42,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+717,588296,Kroměříž,33,Olga,1,7,0,9386,0,1.77,7,0,7,místostarostka města Kroměříže,Sehnalová,7,CZ,MUDr.,MBA,40,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+718,4,Ostrava,33,Vojtěch,0,7,0,9361,0,1.77,0,1,8,náměstek primátora města Ostr.,Mynář,7,CZ,,,65,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+719,2,Plzeň,33,Petr,0,7,0,4272,0,.8,0,2,9,zmocněnec primátora města Plz.,Osvald,7,CZ,Ing.,,42,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+720,500496,Olomouc,33,Jaroslav,0,7,0,8648,0,1.63,0,3,10,"lékař, vysokoškolský pedagog",Vomáčka,7,CZ,Doc. MUDr.,Ph.D.,53,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+721,538574,Odolena Voda,33,Anna,0,7,0,4318,0,.81,0,4,11,poslankyně PS PČR,Čurdová,7,CZ,Mgr.,,47,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+722,1,Praha,33,Tomáš,0,7,0,1335,0,.25,0,5,12,ředitel Úřadu Regionální rady,Novotný,7,CZ,JUDr. Ing.,Ph.D.,40,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+723,1,Praha,33,Miloslav,0,7,0,1172,0,.22,0,6,13,vysokoškolský pedagog,Suchánek,7,CZ,Prof. Ing.,CSc.,66,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+724,1,Praha,33,Martin,0,7,0,3230,0,.61,0,7,14,výzkumník a pedagog na FSV,Potůček,99,CZ,Prof. PhDr.,"CSc., MSc.",60,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+725,1,Praha,33,Ivan,0,7,0,716,0,.13,0,8,15,advokát,Přikryl,7,CZ,JUDr.,,60,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+726,1,Praha,33,Miloš,0,7,0,1239,0,.23,0,9,16,vědecký pracovník,Balabán,7,CZ,PhDr.,Ph.D.,46,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+727,1,Praha,33,Karel,0,7,0,1267,0,.23,0,10,17,poradce v oblasti fondů EU,Štogl,7,CZ,Mgr.,,36,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+728,,,33,Registrační úřad ponechal pozici volnou,0,,1,0,0,0,0,0,18,,Kandidát v registraci škrtnut,,,,,,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+729,500496,Olomouc,33,Roman,0,7,0,3051,0,.57,0,11,19,technik,Váňa,7,CZ,Ing.,,42,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+730,1,Praha,33,Aleš,0,7,0,212,0,.04,0,12,20,PA/PR konzultant,Pospíšil,7,CZ,Mgr.,,41,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+731,1,Praha,33,Lucie,0,7,0,2374,0,.44,0,13,21,podniková právnička,Svobodová,7,CZ,Mgr. Ing.,,27,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+732,574546,Kramolna,33,Ivana,0,7,0,400,0,.07,0,14,22,personální ředitelka soukr.sp.,Tomková,7,CZ,,,57,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+733,585068,Zlín,33,Jan,0,7,0,1303,0,.24,0,15,23,advokát,Zlínský,7,CZ,JUDr.,,60,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+734,505927,Opava,33,Radim,0,7,0,1366,0,.25,0,16,24,ředitel příspěvkové organizace,Křupala,7,CZ,Ing.,,28,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+735,567442,Teplice,33,Štěpán,0,7,0,445,0,.08,0,17,25,advokát,Knézel,7,CZ,Mgr.,,59,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+736,554481,Cheb,33,Václav,0,7,0,736,0,.13,0,18,26,politický poradce Delegace,Mls,7,CZ,Mgr.,MA,35,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+737,1,Praha,33,Jakub,0,7,0,468,0,.08,0,19,27,právník,Landovský,7,CZ,PhDr. Mgr.,,32,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+738,1,Praha,33,Kateřina,0,7,0,887,0,.16,0,20,28,zahraniční tajemnice ČSSD,Průdková,99,CZ,Mgr.,,25,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
+739,1,Praha,33,Lukáš,0,7,0,1010,0,.19,0,21,29,historik,Kaucký,7,CZ,Mgr.,,27,Česká strana sociálně demokratická,Česká strana sociálně demokratická,0,7,1,007,0,7,Česká str.sociálně demokrat.,ČSSD
