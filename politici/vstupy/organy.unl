@@ -460,7 +460,6 @@
 350||33|VI|Výbor iniciativní| |15.11.1925|25.09.1929|121|0|
 351||33|VIM|Výbor imunitní| |15.11.1925|25.09.1929|122|0|
 352||33|VUP|Výbor ústavnì-právní| |15.11.1925|25.09.1929|122|0|
-353||34|S|Èeská strana sociální| |14.11.1918|15.04.1920|105|0|
 354||34|Agr|Agrární strana| |14.11.1918|15.04.1920|101|0|
 356||34|ÈS|Èeská strana sociální| |14.11.1918|15.04.1920|106|0|
 357||34|L|Èeskoslovenská strana lidová| |14.11.1918|15.04.1920|108|0|
@@ -878,13 +877,13 @@
 925|0|79|SE02|Senát|Senate|16.12.1998|18.12.2000||0|
 926|0|79|SE03|Senát|Senate|19.12.2000|03.12.2002||0|
 927|0|79|SE05|Senát|Senate|15.12.2004|28.11.2006||0|
-928|0|79|SE06|Senát|Senate|19.11.2006|24.10.2008||0|
+928|0|79|SE06|Senát|Senate|29.11.2006|25.11.2008||0|
 929|169|2|VKNZS|Vyšetøovací komise pro vyšetøení neoprávnìných zásahù do soukromého a rodinného života nìkterých osob uskuteèòovaných za úèelem nátlaku na èleny Parlamentu Èeské republiky|Inquiry Commission on investigation of infringements and invasion of private and family life of certain persons carried out in order to promote undue influence on the members of the Parliament of the Czech Republic|23.09.2008|03.06.2010||0|
 930|803|13|PEG|Egypt|Egypt|26.09.2008|03.06.2010||0|
 931|0|84|MPU|Meziparlamentní unie|Inter-Parliamentary Union|01.01.1993||100|1|
 932|0|84|SCTPMPU|Øídící výbor geopolitické skupiny 12+ Meziparlamentní unie|Twelve Plus Group Steering Committee of the Inter-Parliamentary Union|01.01.1993||200|0|
 933|772|4|PPCRZVE|Podvýbor pro prezentaci Èeské republiky v zahranièí a vnìjší ekonomické vztahy|Subcommittee on the Projection of the Czech Republic Abroad|04.03.2009|03.06.2010||0|
-934||79|SE07|Senát|Senate|25.10.2008|25.10.2014||0|
+934||79|SE07|Senát|Senate|26.11.2008|23.11.2010||0|
 935|803|13|PKZ|Kazachstán|Kazakhstan|25.03.2009|03.06.2010||0|
 936|169|2|DKJUS|Doèasná komise pro otázky posouzení nezávislosti výkonu a budoucího uspoøádání èeské justice|Temporary Commission for issues related to analysis of independence of current operation and future organization of Czech justice |26.03.2009|03.06.2010||0|
 937|169|2|VKPOZ|Vyšetøovací komise pro vyšetøení prorùstání organizovaného zloèinu a zájmových skupin do èinnosti orgánù veøejné moci|Investigation Commission for investigating of progression of organized crime and special interest groups into the operation of public administration authorities |01.04.2009|03.06.2010||0|
@@ -974,7 +973,7 @@
 1019|967|4|PBSCR|Podvýbor pro vytváøení bezpeènostní strategie Èeské republiky a zbrojní politiku| |13.10.2010|28.08.2013||0|
 1020|958|4|PPS|Podvýbor pro regionální a pøeshranièní spolupráci| |07.10.2010|28.08.2013||0|
 1021|958|4|PEF|Podvýbor pro evropské fondy| |07.10.2010|28.08.2013||0|
-1022|0|79|SE08|Senát|Senate|16.10.2010|||0|
+1022|0|79|SE08|Senát|Senate|24.11.2010|20.11.2012||0|
 1023|959|4|PEKICTP|Podvýbor pro elektronické komunikace a ICT prùmysl| |11.11.2010|28.08.2013||0|
 1025|962|4|PPPZ|Podvýbor pro pracovní právo a zamìstnanost| |25.11.2010|28.08.2013||0|
 1026|962|4|PSPS|Podvýbor pro sociálnì pojistné systémy| |25.11.2010|28.08.2013||0|
@@ -1157,7 +1156,7 @@
 1254|1140|13|LV|Lotyšsko|Latvia|20.06.2014|||0|
 1255|1140|13|EE|Estonsko|Estonia|20.06.2014|||0|
 1256|0|15|RSFK|Rada Státního fondu kinematografie| |01.01.2013|||0|
-1257||79|SE10|Senát|Senate|18.10.2014|||0|
+1257||79|SE10|Senát|Senate|19.11.2014|||0|
 1258|171|2|VKD47|Vyšetøovací komise pro vyšetøení závažných pochybení, která se stala pøi pøípravì a realizaci stavby dálnice D47| |23.10.2014|||0|
 1259|1124|4|FP|Finanèní podvýbor| |31.10.2014|||0|
 1260|1140|13|RO, MD|Rumunsko, Moldavská republika|Romania, Republic Moldova|26.11.2014|||0|
@@ -1183,3 +1182,4 @@
 1280|1140|13|XFR|Frankofonie|Francophone|09.12.2015|||0|
 1281|1140|13|SN|Senegalská republika|Republic of Senegal|01.06.2016|||0|
 1282|171|2|VKÚOOZ|Vyšetøovací komise k provìøení èinnosti pøíslušníkù Policejního prezidia Èeské republiky, Útvaru pro odhalování organizovaného zloèinu Policie Èeské republiky a státních zástupcù Vrchního státního zastupitelství v Olomouci v souvislosti s reorganizací ÚOOZ a ÚOKFK Policie Èeské republiky k 1. srpnu 2016| |28.06.2016|||0|
+1283||79|SE11|Senát|Senate|15.10.2016||||
